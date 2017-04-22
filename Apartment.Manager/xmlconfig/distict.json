@@ -1,0 +1,3727 @@
+﻿[
+    {
+      "id": 12,
+      "code": "ZCdlPS3dVCs",
+      "name": "浦东",
+      "lat": "31.227643",
+      "lon": "121.550079",
+      "houseNum": 0,
+      "subList": [
+        {
+          "letter": "B",
+          "towns": [
+            {
+              "id": 6445,
+              "code": "741O-YGOBr0",
+              "name": "北蔡",
+              "lat": "31.180775",
+              "lon": "121.568454",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 6446,
+              "code": "cRMYdVwnxbc",
+              "name": "碧云",
+              "lat": "31.245532",
+              "lon": "121.594693",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "C",
+          "towns": [
+            {
+              "id": 6447,
+              "code": "Nsg4SQOY1uw",
+              "name": "川沙",
+              "lat": "31.160615",
+              "lon": "121.728456",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 6448,
+              "code": "zAJ0tl9xG60",
+              "name": "曹路",
+              "lat": "31.284363",
+              "lon": "121.68413",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "D",
+          "towns": [
+            {
+              "id": 60734,
+              "code": "GpqLyXQxNOQ",
+              "name": "大团镇",
+              "lat": "30.977412",
+              "lon": "121.755645",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 125089,
+              "code": "YXEhO3bDSM0",
+              "name": "东三林",
+              "lat": "31.146989",
+              "lon": "121.534229",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "G",
+          "towns": [
+            {
+              "id": 6449,
+              "code": "PaQO9EZdQmU",
+              "name": "高行（北）",
+              "lat": "31.301488",
+              "lon": "121.621702",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 60691,
+              "code": "_PqaOXsGcd0",
+              "name": "高东（西）",
+              "lat": "31.316638",
+              "lon": "121.630817",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 137384,
+              "code": "ee0GIhxnOyE",
+              "name": "高东（东）",
+              "lat": "31.329779",
+              "lon": "121.630386",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 142621,
+              "code": "Fz6Xfy9yGlw",
+              "name": "高行（东）",
+              "lat": "31.296456",
+              "lon": "121.640353",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "H",
+          "towns": [
+            {
+              "id": 6450,
+              "code": "GS_qM3GoYSo",
+              "name": "惠南",
+              "lat": "31.04874",
+              "lon": "121.77311",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 6451,
+              "code": "GtC27ByKR38",
+              "name": "航头",
+              "lat": "31.042621",
+              "lon": "121.593516",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 59819,
+              "code": "z6_r0EYhZU8",
+              "name": "合庆",
+              "lat": "31.239206",
+              "lon": "121.727866",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "J",
+          "towns": [
+            {
+              "id": 6453,
+              "code": "0jGcqZhbZZA",
+              "name": "金桥（中）",
+              "lat": "31.279925",
+              "lon": "121.612266",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 6454,
+              "code": "W6B-bcVt0xo",
+              "name": "金杨",
+              "lat": "31.259636",
+              "lon": "121.578211",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 123693,
+              "code": "L_edCMCJUJE",
+              "name": "金桥（南）",
+              "lat": "31.26926",
+              "lon": "121.599597",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 137391,
+              "code": "qbijiK__urs",
+              "name": "金桥（北）",
+              "lat": "31.306497",
+              "lon": "121.588744",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "K",
+          "towns": [
+            {
+              "id": 6455,
+              "code": "Nitka5o0oeU",
+              "name": "康桥",
+              "lat": "31.146632",
+              "lon": "121.583626",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "L",
+          "towns": [
+            {
+              "id": 6456,
+              "code": "cUXsoySTXG0",
+              "name": "联洋",
+              "lat": "31.232925",
+              "lon": "121.56336",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 6457,
+              "code": "yyP1oFdpx9Y",
+              "name": "临港新城",
+              "lat": "30.901991",
+              "lon": "121.919219",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 6458,
+              "code": "yJX8-X6IcOw",
+              "name": "陆家嘴",
+              "lat": "31.242289",
+              "lon": "121.519949",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 60737,
+              "code": "mJNz61EZ4p0",
+              "name": "老港镇",
+              "lat": "31.03828",
+              "lon": "121.876452",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "N",
+          "towns": [
+            {
+              "id": 6459,
+              "code": "VcoREw_cn-I",
+              "name": "南码头",
+              "lat": "31.199665",
+              "lon": "121.518779",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 60736,
+              "code": "yspBZs5ZCBM",
+              "name": "泥城镇",
+              "lat": "30.908407",
+              "lon": "121.83822",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "S",
+          "towns": [
+            {
+              "id": 6461,
+              "code": "-48_Ftyu4Mk",
+              "name": "世博",
+              "lat": "31.182617",
+              "lon": "121.498936",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 6462,
+              "code": "0h51ow60M2c",
+              "name": "世纪公园",
+              "lat": "31.216182",
+              "lon": "121.560561",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 60738,
+              "code": "QJkvGwjfYp0",
+              "name": "书院镇",
+              "lat": "30.969778",
+              "lon": "121.878118",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "T",
+          "towns": [
+            {
+              "id": 6463,
+              "code": "jjEw9wcBTGU",
+              "name": "塘桥",
+              "lat": "31.216241",
+              "lon": "121.529631",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 6464,
+              "code": "yfyspj0hGhc",
+              "name": "唐镇",
+              "lat": "31.209131",
+              "lon": "121.66285",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "W",
+          "towns": [
+            {
+              "id": 6465,
+              "code": "cocyioJVWL8",
+              "name": "外高桥",
+              "lat": "31.350797",
+              "lon": "121.584967",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 6466,
+              "code": "3x3sm635t5I",
+              "name": "潍坊",
+              "lat": "31.230448",
+              "lon": "121.531563",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 60739,
+              "code": "G0GP0GiCHsA",
+              "name": "万祥镇",
+              "lat": "30.971148",
+              "lon": "121.832439",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "X",
+          "towns": [
+            {
+              "id": 6460,
+              "code": "7Rkm12Yn4As",
+              "name": "西三林",
+              "lat": "31.154808",
+              "lon": "121.492332",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 6467,
+              "code": "CNgwomsRRTE",
+              "name": "新场",
+              "lat": "31.017185",
+              "lon": "121.653133",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 60337,
+              "code": "r4xel2qNCVU",
+              "name": "宣桥",
+              "lat": "31.028535",
+              "lon": "121.708565",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Y",
+          "towns": [
+            {
+              "id": 6468,
+              "code": "QTaLV8A_14Y",
+              "name": "杨东",
+              "lat": "31.208414",
+              "lon": "121.543264",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 6469,
+              "code": "iz5Qg_4HX3k",
+              "name": "洋泾",
+              "lat": "31.24977",
+              "lon": "121.553188",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 6470,
+              "code": "e2x33rK2iOA",
+              "name": "源深",
+              "lat": "31.244305",
+              "lon": "121.540607",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Z",
+          "towns": [
+            {
+              "id": 6471,
+              "code": "1mLc_52Ka40",
+              "name": "张江",
+              "lat": "31.205167",
+              "lon": "121.620012",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 6472,
+              "code": "DuOuh-_kMec",
+              "name": "周浦",
+              "lat": "31.115879",
+              "lon": "121.585957",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 6473,
+              "code": "yGmppnB4_5k",
+              "name": "祝桥",
+              "lat": "31.115967",
+              "lon": "121.773491",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "code": "LKKcWL-ZmmU",
+      "name": "黄浦",
+      "lat": "31.236122",
+      "lon": "121.491186",
+      "houseNum": 0,
+      "subList": [
+        {
+          "letter": "D",
+          "towns": [
+            {
+              "id": 21,
+              "code": "edyrK0tFtKM",
+              "name": "董家渡",
+              "lat": "31.22135",
+              "lon": "121.503867",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 332,
+              "code": "M9iACepzNMk",
+              "name": "打浦桥",
+              "lat": "31.209876",
+              "lon": "121.478088",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "H",
+          "towns": [
+            {
+              "id": 22,
+              "code": "7NvyFzObiYs",
+              "name": "黄浦滨江",
+              "lat": "31.204876",
+              "lon": "121.500018",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 333,
+              "code": "6z38efoUwsQ",
+              "name": "淮海中路",
+              "lat": "31.223158",
+              "lon": "121.471879",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "L",
+          "towns": [
+            {
+              "id": 23,
+              "code": "zvHI9etZp9I",
+              "name": "老西门",
+              "lat": "31.222334",
+              "lon": "121.492717",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "N",
+          "towns": [
+            {
+              "id": 24,
+              "code": "ixMWGqFvlGc",
+              "name": "南京东路",
+              "lat": "31.242278",
+              "lon": "121.489017",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "P",
+          "towns": [
+            {
+              "id": 25,
+              "code": "0X7gFjIkVeM",
+              "name": "蓬莱公园",
+              "lat": "31.214004",
+              "lon": "121.497702",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "R",
+          "towns": [
+            {
+              "id": 26,
+              "code": "mvQha7EJ3lQ",
+              "name": "人民广场",
+              "lat": "31.239045",
+              "lon": "121.476873",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "S",
+          "towns": [
+            {
+              "id": 334,
+              "code": "-1ZQ7T_BXAU",
+              "name": "世博滨江",
+              "lat": "31.200099",
+              "lon": "121.484243",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "W",
+          "towns": [
+            {
+              "id": 335,
+              "code": "B-Rs_z4swHM",
+              "name": "五里桥",
+              "lat": "31.21049",
+              "lon": "121.486563",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "X",
+          "towns": [
+            {
+              "id": 336,
+              "code": "ZNY9ddjfzQY",
+              "name": "新天地",
+              "lat": "31.224998",
+              "lon": "121.484373",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 63590,
+              "code": "txiXyZWyq3E",
+              "name": "小东门街道",
+              "lat": "31.223697",
+              "lon": "121.510782",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Y",
+          "towns": [
+            {
+              "id": 27,
+              "code": "APNVicNCeF0",
+              "name": "豫园",
+              "lat": "31.231894",
+              "lon": "121.496394",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "code": "x66KpuOzp5Y",
+      "name": "静安",
+      "lat": "31.229864",
+      "lon": "121.46095",
+      "houseNum": 0,
+      "subList": [
+        {
+          "letter": "C",
+          "towns": [
+            {
+              "id": 702,
+              "code": "qG2qdfpJuDY",
+              "name": "曹家渡",
+              "lat": "31.235979",
+              "lon": "121.440996",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "J",
+          "towns": [
+            {
+              "id": 703,
+              "code": "ALRjzuP2R8o",
+              "name": "江宁路",
+              "lat": "31.242829",
+              "lon": "121.453771",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 704,
+              "code": "b6sOF1_rIpc",
+              "name": "静安寺",
+              "lat": "31.227452",
+              "lon": "121.450288",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "N",
+          "towns": [
+            {
+              "id": 705,
+              "code": "U-RoiI2ntIA",
+              "name": "南京西路",
+              "lat": "31.23721",
+              "lon": "121.464072",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "code": "RMEMsXjhbAI",
+      "name": "徐汇",
+      "lat": "31.193972",
+      "lon": "121.443213",
+      "houseNum": 0,
+      "subList": [
+        {
+          "letter": "C",
+          "towns": [
+            {
+              "id": 1204,
+              "code": "Qv2EbOT5LTw",
+              "name": "漕河泾",
+              "lat": "31.177444",
+              "lon": "121.412208",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 1205,
+              "code": "S9hzarx1fhI",
+              "name": "长桥",
+              "lat": "31.136864",
+              "lon": "121.44971",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "H",
+          "towns": [
+            {
+              "id": 1206,
+              "code": "fXd6kQc6DIg",
+              "name": "衡山路",
+              "lat": "31.215517",
+              "lon": "121.452227",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 1207,
+              "code": "kgsJWFtnYQk",
+              "name": "华东理工",
+              "lat": "31.144111",
+              "lon": "121.43054",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 1208,
+              "code": "I1-SMMPexkU",
+              "name": "华泾",
+              "lat": "31.123811",
+              "lon": "121.462342",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "J",
+          "towns": [
+            {
+              "id": 1209,
+              "code": "EbwziMxE9bg",
+              "name": "建国西路",
+              "lat": "31.213853",
+              "lon": "121.463719",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "K",
+          "towns": [
+            {
+              "id": 1210,
+              "code": "7IGau-f8d5I",
+              "name": "康健",
+              "lat": "31.163789",
+              "lon": "121.423808",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "L",
+          "towns": [
+            {
+              "id": 1211,
+              "code": "sUs7pts3dnM",
+              "name": "龙华",
+              "lat": "31.171936",
+              "lon": "121.45518",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "S",
+          "towns": [
+            {
+              "id": 1212,
+              "code": "RZUIJ-EsKdg",
+              "name": "上海南站",
+              "lat": "31.153179",
+              "lon": "121.440048",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "T",
+          "towns": [
+            {
+              "id": 1213,
+              "code": "wTUopXbbvaQ",
+              "name": "田林",
+              "lat": "31.182014",
+              "lon": "121.431845",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "W",
+          "towns": [
+            {
+              "id": 1214,
+              "code": "xHwrrnFfm2s",
+              "name": "万体馆",
+              "lat": "31.186645",
+              "lon": "121.446104",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "X",
+          "towns": [
+            {
+              "id": 1215,
+              "code": "u8aoyGm_2Ak",
+              "name": "斜土路",
+              "lat": "31.204051",
+              "lon": "121.46919",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 1216,
+              "code": "cPLmug94a80",
+              "name": "徐汇滨江",
+              "lat": "31.171576",
+              "lon": "121.46777",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 1217,
+              "code": "6b3IggfHkFE",
+              "name": "徐家汇",
+              "lat": "31.200191",
+              "lon": "121.443536",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Z",
+          "towns": [
+            {
+              "id": 1218,
+              "code": "BOORyhj56Ds",
+              "name": "植物园",
+              "lat": "31.152556",
+              "lon": "121.451162",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "code": "lHrPt8TM-Is",
+      "name": "长宁",
+      "lat": "31.225263",
+      "lon": "121.430792",
+      "houseNum": 0,
+      "subList": [
+        {
+          "letter": "B",
+          "towns": [
+            {
+              "id": 2382,
+              "code": "fiPpkF_-iss",
+              "name": "北新泾",
+              "lat": "31.225237",
+              "lon": "121.363976",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "G",
+          "towns": [
+            {
+              "id": 2383,
+              "code": "TUKnXqcpJeI",
+              "name": "古北",
+              "lat": "31.201881",
+              "lon": "121.40718",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "H",
+          "towns": [
+            {
+              "id": 2384,
+              "code": "Cqi-aaSedOc",
+              "name": "虹桥",
+              "lat": "31.208598",
+              "lon": "121.411673",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "T",
+          "towns": [
+            {
+              "id": 2385,
+              "code": "CqLqLh2P_vA",
+              "name": "天山",
+              "lat": "31.220678",
+              "lon": "121.395206",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "X",
+          "towns": [
+            {
+              "id": 2386,
+              "code": "Xcjc7PXNSik",
+              "name": "西郊",
+              "lat": "31.2036",
+              "lon": "121.372359",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 2387,
+              "code": "LSEeX8vFeqA",
+              "name": "仙霞",
+              "lat": "31.212985",
+              "lon": "121.398037",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 2388,
+              "code": "UaRZ9bm95Ec",
+              "name": "新华路",
+              "lat": "31.209788",
+              "lon": "121.429713",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Z",
+          "towns": [
+            {
+              "id": 2389,
+              "code": "WmaclTEWz3A",
+              "name": "镇宁路",
+              "lat": "31.224103",
+              "lon": "121.44142",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 2390,
+              "code": "QoUr2eaz2H4",
+              "name": "中山公园",
+              "lat": "31.224024",
+              "lon": "121.426869",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "code": "jCK3cQBMlbw",
+      "name": "虹口",
+      "lat": "31.266133",
+      "lon": "121.500425",
+      "houseNum": 0,
+      "subList": [
+        {
+          "letter": "B",
+          "towns": [
+            {
+              "id": 3238,
+              "code": "c7rYU9YAhXM",
+              "name": "北外滩",
+              "lat": "31.256129",
+              "lon": "121.508382",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "J",
+          "towns": [
+            {
+              "id": 3239,
+              "code": "0vxmCgPWDMQ",
+              "name": "江湾镇",
+              "lat": "31.307411",
+              "lon": "121.487971",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "L",
+          "towns": [
+            {
+              "id": 3240,
+              "code": "og-0MTEhdvc",
+              "name": "凉城",
+              "lat": "31.294658",
+              "lon": "121.477072",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 3241,
+              "code": "HTtPZtlRgvw",
+              "name": "临平路",
+              "lat": "31.269257",
+              "lon": "121.505049",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 3242,
+              "code": "AWlTEEeqU84",
+              "name": "鲁迅公园",
+              "lat": "31.275766",
+              "lon": "121.490471",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Q",
+          "towns": [
+            {
+              "id": 3243,
+              "code": "iSy9i4rFdgk",
+              "name": "曲阳",
+              "lat": "31.289284",
+              "lon": "121.497286",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "S",
+          "towns": [
+            {
+              "id": 3244,
+              "code": "9nPHFwhlRVQ",
+              "name": "四川北路",
+              "lat": "31.261715",
+              "lon": "121.490874",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "code": "SCnT8a7-X_8",
+      "name": "杨浦",
+      "lat": "31.265996",
+      "lon": "121.5326",
+      "houseNum": 0,
+      "subList": [
+        {
+          "letter": "A",
+          "towns": [
+            {
+              "id": 4068,
+              "code": "4LaiQUWnQ1A",
+              "name": "鞍山",
+              "lat": "31.283135",
+              "lon": "121.517261",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "D",
+          "towns": [
+            {
+              "id": 4069,
+              "code": "7bteT1UUzTo",
+              "name": "东外滩",
+              "lat": "31.262752",
+              "lon": "121.531241",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "H",
+          "towns": [
+            {
+              "id": 4070,
+              "code": "8-72Ok5bK6o",
+              "name": "黄兴公园",
+              "lat": "31.304608",
+              "lon": "121.542672",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "K",
+          "towns": [
+            {
+              "id": 4071,
+              "code": "FJmSB0sK5Gc",
+              "name": "控江路",
+              "lat": "31.290345",
+              "lon": "121.543992",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "W",
+          "towns": [
+            {
+              "id": 4072,
+              "code": "1hrfSMkEYwA",
+              "name": "五角场",
+              "lat": "31.300526",
+              "lon": "121.516382",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "X",
+          "towns": [
+            {
+              "id": 4073,
+              "code": "VqR_H4pO17Q",
+              "name": "新江湾城",
+              "lat": "31.336414",
+              "lon": "121.518215",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Z",
+          "towns": [
+            {
+              "id": 4074,
+              "code": "Sdf7ilS-Qjc",
+              "name": "周家嘴路",
+              "lat": "31.278387",
+              "lon": "121.548781",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 4075,
+              "code": "58XDa-gqYkA",
+              "name": "中原",
+              "lat": "31.32699",
+              "lon": "121.546346",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "code": "Hf5UzCpRzpE",
+      "name": "闸北",
+      "lat": "31.290701",
+      "lon": "121.453381",
+      "houseNum": 0,
+      "subList": [
+        {
+          "letter": "B",
+          "towns": [
+            {
+              "id": 5054,
+              "code": "PCbw-oocvwI",
+              "name": "不夜城",
+              "lat": "31.24815",
+              "lon": "121.464746",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "D",
+          "towns": [
+            {
+              "id": 5048,
+              "code": "h9WD1VESUdE",
+              "name": "大宁",
+              "lat": "31.274834",
+              "lon": "121.457026",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "P",
+          "towns": [
+            {
+              "id": 5049,
+              "code": "VGHpB2XAHYo",
+              "name": "彭浦",
+              "lat": "31.317026",
+              "lon": "121.458988",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "X",
+          "towns": [
+            {
+              "id": 5050,
+              "code": "l8jkrUhAad0",
+              "name": "西藏北路",
+              "lat": "31.261249",
+              "lon": "121.478548",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Y",
+          "towns": [
+            {
+              "id": 5051,
+              "code": "4HlXBFyWqCY",
+              "name": "阳城",
+              "lat": "31.287396",
+              "lon": "121.436331",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 5052,
+              "code": "qg_jn4wqg9A",
+              "name": "永和",
+              "lat": "31.298446",
+              "lon": "121.435252",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Z",
+          "towns": [
+            {
+              "id": 5053,
+              "code": "0Ah7NQj3yWw",
+              "name": "闸北公园",
+              "lat": "31.275996",
+              "lon": "121.470533",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "code": "7wKW-r02H3c",
+      "name": "普陀",
+      "lat": "31.25339",
+      "lon": "121.404322",
+      "houseNum": 0,
+      "subList": [
+        {
+          "letter": "C",
+          "towns": [
+            {
+              "id": 5749,
+              "code": "ysPsc6D8iMI",
+              "name": "曹杨",
+              "lat": "31.244929",
+              "lon": "121.412914",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 5755,
+              "code": "MBS_DZwC-zg",
+              "name": "长风",
+              "lat": "31.234962",
+              "lon": "121.403237",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 5756,
+              "code": "nNaOphag9o0",
+              "name": "长寿路",
+              "lat": "31.248863",
+              "lon": "121.445892",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 5757,
+              "code": "TOQT6P3LB0Y",
+              "name": "长征",
+              "lat": "31.241522",
+              "lon": "121.380701",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "G",
+          "towns": [
+            {
+              "id": 5750,
+              "code": "p1U86hX8NBo",
+              "name": "甘泉宜川",
+              "lat": "31.269854",
+              "lon": "121.442352",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 5751,
+              "code": "ttdIATQQaf8",
+              "name": "光新",
+              "lat": "31.260232",
+              "lon": "121.435629",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "T",
+          "towns": [
+            {
+              "id": 5752,
+              "code": "Z74Sygb-PlA",
+              "name": "桃浦",
+              "lat": "31.289454",
+              "lon": "121.355628",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "W",
+          "towns": [
+            {
+              "id": 5753,
+              "code": "wvG3mLbzVeg",
+              "name": "万里",
+              "lat": "31.272608",
+              "lon": "121.41342",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 5754,
+              "code": "WwiKsCYkVkk",
+              "name": "武宁",
+              "lat": "31.246048",
+              "lon": "121.430298",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Z",
+          "towns": [
+            {
+              "id": 5758,
+              "code": "-RyxvBms8JQ",
+              "name": "真光",
+              "lat": "31.25873",
+              "lon": "121.392155",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 5759,
+              "code": "Et4Uye9zM3g",
+              "name": "真如",
+              "lat": "31.257431",
+              "lon": "121.414485",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 5760,
+              "code": "iQDw5W1__Rg",
+              "name": "中远两湾城",
+              "lat": "31.259041",
+              "lon": "121.451482",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "code": "LWUfdVeEMlU",
+      "name": "宝山",
+      "lat": "31.317743",
+      "lon": "121.408638",
+      "houseNum": 0,
+      "subList": [
+        {
+          "letter": "D",
+          "towns": [
+            {
+              "id": 8859,
+              "code": "SLS-hQl0LZk",
+              "name": "大场镇",
+              "lat": "31.309216",
+              "lon": "121.417235",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 8860,
+              "code": "_n7ozDlqoUU",
+              "name": "大华",
+              "lat": "31.287868",
+              "lon": "121.420283",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "G",
+          "towns": [
+            {
+              "id": 8861,
+              "code": "CxLuwnlVE3E",
+              "name": "高境",
+              "lat": "31.329167",
+              "lon": "121.489835",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 8862,
+              "code": "U6IhzgRvBz0",
+              "name": "共富",
+              "lat": "31.351853",
+              "lon": "121.426089",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 8863,
+              "code": "z1mXHH-n6uI",
+              "name": "共康",
+              "lat": "31.332397",
+              "lon": "121.441106",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 8864,
+              "code": "hvXDHudv-Hc",
+              "name": "顾村",
+              "lat": "31.358111",
+              "lon": "121.378297",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "L",
+          "towns": [
+            {
+              "id": 8865,
+              "code": "o0ZH4fChnIs",
+              "name": "罗店",
+              "lat": "31.412712",
+              "lon": "121.366468",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 8866,
+              "code": "QSIpx3W1sAQ",
+              "name": "罗泾",
+              "lat": "31.485607",
+              "lon": "121.339999",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "S",
+          "towns": [
+            {
+              "id": 8867,
+              "code": "17QJ6ZjhULY",
+              "name": "上大",
+              "lat": "31.316807",
+              "lon": "121.383627",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 8868,
+              "code": "63M67q-aZLc",
+              "name": "淞宝",
+              "lat": "31.40134",
+              "lon": "121.496404",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 8869,
+              "code": "BN684kGwpdA",
+              "name": "淞南",
+              "lat": "31.353341",
+              "lon": "121.49571",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "T",
+          "towns": [
+            {
+              "id": 8870,
+              "code": "-XDVrNPHMLs",
+              "name": "通河",
+              "lat": "31.336409",
+              "lon": "121.455544",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Y",
+          "towns": [
+            {
+              "id": 8871,
+              "code": "ckIjKrwk3Vg",
+              "name": "杨行",
+              "lat": "31.387465",
+              "lon": "121.450853",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 8872,
+              "code": "ZodV5Cz4ghE",
+              "name": "月浦",
+              "lat": "31.41541",
+              "lon": "121.433618",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Z",
+          "towns": [
+            {
+              "id": 8873,
+              "code": "UmQAKMaPT3k",
+              "name": "张庙",
+              "lat": "31.338604",
+              "lon": "121.466172",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "code": "JAgB9O0RMbw",
+      "name": "闵行",
+      "lat": "31.175114",
+      "lon": "121.382538",
+      "houseNum": 0,
+      "subList": [
+        {
+          "letter": "C",
+          "towns": [
+            {
+              "id": 9540,
+              "code": "mAQ8s0xJ0og",
+              "name": "春申",
+              "lat": "31.111313",
+              "lon": "121.41919",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "G",
+          "towns": [
+            {
+              "id": 9541,
+              "code": "N3QQuZu7V-8",
+              "name": "古美",
+              "lat": "31.146947",
+              "lon": "121.401324",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "H",
+          "towns": [
+            {
+              "id": 9542,
+              "code": "7E9HdsA2dZc",
+              "name": "航华",
+              "lat": "31.17765",
+              "lon": "121.357612",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 9543,
+              "code": "D7mCYQE2hXk",
+              "name": "华漕",
+              "lat": "31.218729",
+              "lon": "121.313402",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "J",
+          "towns": [
+            {
+              "id": 9544,
+              "code": "L-0tVncKxxk",
+              "name": "金虹桥",
+              "lat": "31.187891",
+              "lon": "121.393118",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 9545,
+              "code": "crw7-2GU798",
+              "name": "金汇（闵行）",
+              "lat": "31.180929",
+              "lon": "121.382205",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 9546,
+              "code": "CBn_OH3E4gM",
+              "name": "静安新城",
+              "lat": "31.166739",
+              "lon": "121.388054",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "L",
+          "towns": [
+            {
+              "id": 9547,
+              "code": "daSYMeyo1rE",
+              "name": "老闵行",
+              "lat": "31.014841",
+              "lon": "121.412605",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 9548,
+              "code": "iNMJv6tRwvw",
+              "name": "龙柏",
+              "lat": "31.182202",
+              "lon": "121.372144",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 9549,
+              "code": "t9KOqX6CsIo",
+              "name": "罗阳",
+              "lat": "31.126334",
+              "lon": "121.412691",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "M",
+          "towns": [
+            {
+              "id": 9550,
+              "code": "W2ZfZDW9p1E",
+              "name": "马桥",
+              "lat": "31.045792",
+              "lon": "121.361528",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 9551,
+              "code": "IapITJ3gttw",
+              "name": "梅陇",
+              "lat": "31.134845",
+              "lon": "121.418754",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "P",
+          "towns": [
+            {
+              "id": 9552,
+              "code": "zAX11tXIR-o",
+              "name": "浦江",
+              "lat": "31.056947",
+              "lon": "121.54164",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Q",
+          "towns": [
+            {
+              "id": 9553,
+              "code": "HPHFffcwd3g",
+              "name": "七宝",
+              "lat": "31.151969",
+              "lon": "121.360907",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "W",
+          "towns": [
+            {
+              "id": 9554,
+              "code": "ZV6aiK5HniE",
+              "name": "吴泾（东）",
+              "lat": "31.045258",
+              "lon": "121.469514",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 133062,
+              "code": "wUVQb8qopDQ",
+              "name": "吴泾（西）",
+              "lat": "31.025076",
+              "lon": "121.453131",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "X",
+          "towns": [
+            {
+              "id": 9555,
+              "code": "5fn6yAE8gBw",
+              "name": "莘庄（南）",
+              "lat": "31.111801",
+              "lon": "121.386177",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 137365,
+              "code": "UwP6hATowi0",
+              "name": "莘庄（北）",
+              "lat": "31.12545",
+              "lon": "121.376628",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 142623,
+              "code": "5vjTGCli4-s",
+              "name": "莘庄（西）",
+              "lat": "31.110641",
+              "lon": "121.361945",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Z",
+          "towns": [
+            {
+              "id": 9556,
+              "code": "VkTEZwM_2VQ",
+              "name": "颛桥",
+              "lat": "31.067297",
+              "lon": "121.412234",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "code": "HYY8o9FZqnI",
+      "name": "嘉定",
+      "lat": "31.272202",
+      "lon": "121.339346",
+      "houseNum": 0,
+      "subList": [
+        {
+          "letter": "A",
+          "towns": [
+            {
+              "id": 10670,
+              "code": "6Zy7rvsQrbU",
+              "name": "安亭",
+              "lat": "31.275824",
+              "lon": "121.216769",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "F",
+          "towns": [
+            {
+              "id": 60628,
+              "code": "LUaEQ8nq6s8",
+              "name": "丰庄",
+              "lat": "31.252977",
+              "lon": "121.366584",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "H",
+          "towns": [
+            {
+              "id": 62912,
+              "code": "6eMBxH08VQA",
+              "name": "华亭",
+              "lat": "31.47962",
+              "lon": "121.291324",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "J",
+          "towns": [
+            {
+              "id": 10673,
+              "code": "N5QMLnl2nJk",
+              "name": "江桥",
+              "lat": "31.246786",
+              "lon": "121.319162",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 10674,
+              "code": "KxiAbLcK9bo",
+              "name": "菊园新区",
+              "lat": "31.388522",
+              "lon": "121.234017",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 10675,
+              "code": "d59DnbK7Q58",
+              "name": "嘉定新城",
+              "lat": "31.342332",
+              "lon": "121.271996",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 62868,
+              "code": "53aobPeoXXM",
+              "name": "嘉定老城",
+              "lat": "31.369741",
+              "lon": "121.249471",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "M",
+          "towns": [
+            {
+              "id": 10676,
+              "code": "N50cRhMRHFg",
+              "name": "马陆",
+              "lat": "31.370096",
+              "lon": "121.313732",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "N",
+          "towns": [
+            {
+              "id": 10677,
+              "code": "f2TAveR89Qg",
+              "name": "南翔",
+              "lat": "31.311414",
+              "lon": "121.321705",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "W",
+          "towns": [
+            {
+              "id": 62913,
+              "code": "fNusceC_j9Y",
+              "name": "外冈",
+              "lat": "31.362827",
+              "lon": "121.176551",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "X",
+          "towns": [
+            {
+              "id": 62903,
+              "code": "wkIJeoGZkEo",
+              "name": "新成路",
+              "lat": "31.387736",
+              "lon": "121.273983",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 62905,
+              "code": "y-tRjEnfrUA",
+              "name": "徐行",
+              "lat": "31.429481",
+              "lon": "121.249298",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "code": "mMyQm8ieTMo",
+      "name": "松江",
+      "lat": "31.147505",
+      "lon": "121.319415",
+      "houseNum": 0,
+      "subList": [
+        {
+          "letter": "C",
+          "towns": [
+            {
+              "id": 60800,
+              "code": "Ns-XWAN8CGg",
+              "name": "车墩",
+              "lat": "31.013434",
+              "lon": "121.324441",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "J",
+          "towns": [
+            {
+              "id": 11143,
+              "code": "ss3Sun9ywaQ",
+              "name": "九亭",
+              "lat": "31.135904",
+              "lon": "121.327901",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "M",
+          "towns": [
+            {
+              "id": 61138,
+              "code": "S5KqsKYz8FE",
+              "name": "泖港",
+              "lat": "30.9402",
+              "lon": "121.170694",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "S",
+          "towns": [
+            {
+              "id": 11144,
+              "code": "9FOQpp3B9y4",
+              "name": "佘山",
+              "lat": "31.104257",
+              "lon": "121.178463",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 11145,
+              "code": "pGB7E0MNLsg",
+              "name": "泗泾",
+              "lat": "31.119312",
+              "lon": "121.273093",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 11146,
+              "code": "GGwYYh9z5_Q",
+              "name": "松江老城",
+              "lat": "31.013759",
+              "lon": "121.231712",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 11147,
+              "code": "AWNwKV-307o",
+              "name": "松江新城",
+              "lat": "31.038267",
+              "lon": "121.226243",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 11149,
+              "code": "vq4rVNlMfvE",
+              "name": "松江大学城",
+              "lat": "31.054846",
+              "lon": "121.236325",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 61134,
+              "code": "uTdmcvvO61I",
+              "name": "石湖荡",
+              "lat": "30.973149",
+              "lon": "121.185586",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "X",
+          "towns": [
+            {
+              "id": 11148,
+              "code": "LJUv6hiQiZw",
+              "name": "莘闵别墅",
+              "lat": "31.085315",
+              "lon": "121.350519",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 11150,
+              "code": "vQo7qlwqd2Q",
+              "name": "新桥",
+              "lat": "31.049284",
+              "lon": "121.317516",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 60796,
+              "code": "9ugTN1IQWtw",
+              "name": "小昆山",
+              "lat": "31.026334",
+              "lon": "121.154151",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 62633,
+              "code": "7q45kG2MrAE",
+              "name": "新浜",
+              "lat": "30.947672",
+              "lon": "121.07948",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Y",
+          "towns": [
+            {
+              "id": 61111,
+              "code": "omFFQlYzOjA",
+              "name": "叶榭",
+              "lat": "30.935896",
+              "lon": "121.318032",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "code": "E_rSfm1CndA",
+      "name": "青浦",
+      "lat": "31.185882",
+      "lon": "121.303566",
+      "houseNum": 0,
+      "subList": [
+        {
+          "letter": "B",
+          "towns": [
+            {
+              "id": 11551,
+              "code": "PEEpqETIEXY",
+              "name": "白鹤",
+              "lat": "31.26257",
+              "lon": "121.142238",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "H",
+          "towns": [
+            {
+              "id": 11552,
+              "code": "iCMRShlyXrk",
+              "name": "华新",
+              "lat": "31.232407",
+              "lon": "121.230105",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "J",
+          "towns": [
+            {
+              "id": 142622,
+              "code": "fB7q4V_SWDU",
+              "name": "金泽",
+              "lat": "31.067073",
+              "lon": "120.948172",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "L",
+          "towns": [
+            {
+              "id": 142640,
+              "code": "asAz39aIhHo",
+              "name": "练塘",
+              "lat": "31.014918",
+              "lon": "121.050063",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "X",
+          "towns": [
+            {
+              "id": 11554,
+              "code": "c4OlPOyjDuA",
+              "name": "徐泾",
+              "lat": "31.178913",
+              "lon": "121.280901",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 60633,
+              "code": "NE4qiTDzEyo",
+              "name": "香花桥",
+              "lat": "31.18245",
+              "lon": "121.136496",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 60669,
+              "code": "mzX0a1wtjMA",
+              "name": "夏阳",
+              "lat": "31.146332",
+              "lon": "121.134537",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Y",
+          "towns": [
+            {
+              "id": 60681,
+              "code": "t0RLokaOkAs",
+              "name": "盈浦",
+              "lat": "31.157761",
+              "lon": "121.106422",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Z",
+          "towns": [
+            {
+              "id": 11555,
+              "code": "yGDTLMLwWOs",
+              "name": "重固",
+              "lat": "31.203153",
+              "lon": "121.192616",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 11556,
+              "code": "2UTFWpDFNv8",
+              "name": "朱家角",
+              "lat": "31.092454",
+              "lon": "121.063586",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 11557,
+              "code": "Cxc5LTbkUh4",
+              "name": "赵巷",
+              "lat": "31.153054",
+              "lon": "121.220698",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "code": "74mKW8fVkwA",
+      "name": "奉贤",
+      "lat": "30.924084",
+      "lon": "121.48462",
+      "houseNum": 0,
+      "subList": [
+        {
+          "letter": "F",
+          "towns": [
+            {
+              "id": 11722,
+              "code": "7KcbfcjnfGE",
+              "name": "奉城",
+              "lat": "30.952768",
+              "lon": "121.650278",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "H",
+          "towns": [
+            {
+              "id": 11724,
+              "code": "HMYSUeeUvus",
+              "name": "海湾",
+              "lat": "30.833402",
+              "lon": "121.518339",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "J",
+          "towns": [
+            {
+              "id": 11726,
+              "code": "B-CLTRnjdY0",
+              "name": "金汇（奉贤）",
+              "lat": "30.963931",
+              "lon": "121.52572",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "N",
+          "towns": [
+            {
+              "id": 11727,
+              "code": "8ZB7aqKRDgU",
+              "name": "南桥",
+              "lat": "30.945345",
+              "lon": "121.473147",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Q",
+          "towns": [
+            {
+              "id": 60710,
+              "code": "a-9RHifKOmk",
+              "name": "青村",
+              "lat": "30.935401",
+              "lon": "121.587629",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "S",
+          "towns": [
+            {
+              "id": 60727,
+              "code": "AIA3MasInqc",
+              "name": "四团",
+              "lat": "30.943054",
+              "lon": "121.732159",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Z",
+          "towns": [
+            {
+              "id": 11729,
+              "code": "6sEi52MLa0I",
+              "name": "柘林",
+              "lat": "30.8484",
+              "lon": "121.457769",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 11730,
+              "code": "MxaPA96lpm0",
+              "name": "庄行",
+              "lat": "30.968368",
+              "lon": "121.404434",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "code": "550AxIeeM5M",
+      "name": "金山",
+      "lat": "30.747401",
+      "lon": "121.349353",
+      "houseNum": 0,
+      "subList": [
+        {
+          "letter": "C",
+          "towns": [
+            {
+              "id": 62653,
+              "code": "rLo09bbXp4w",
+              "name": "漕泾",
+              "lat": "30.806829",
+              "lon": "121.411936",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "F",
+          "towns": [
+            {
+              "id": 62655,
+              "code": "Wkijh0EmFJk",
+              "name": "枫泾",
+              "lat": "30.88811",
+              "lon": "121.057796",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "J",
+          "towns": [
+            {
+              "id": 62648,
+              "code": "0F86HrOqwSg",
+              "name": "金山",
+              "lat": "30.753939",
+              "lon": "121.279911",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 142307,
+              "code": "pKNDjpglcbM",
+              "name": "金山新城",
+              "lat": "30.750679",
+              "lon": "121.325274",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "L",
+          "towns": [
+            {
+              "id": 62644,
+              "code": "M1Uw1rKJkWU",
+              "name": "吕巷",
+              "lat": "30.837261",
+              "lon": "121.190515",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 62645,
+              "code": "2C-WqQufh3U",
+              "name": "廊下",
+              "lat": "30.806105",
+              "lon": "121.190493",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "S",
+          "towns": [
+            {
+              "id": 62650,
+              "code": "DIKCyCXHrec",
+              "name": "山阳",
+              "lat": "30.779866",
+              "lon": "121.369623",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 62658,
+              "code": "cTLg0K-Wty4",
+              "name": "石化",
+              "lat": "30.723843",
+              "lon": "121.334962",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "T",
+          "towns": [
+            {
+              "id": 62642,
+              "code": "EDsD317TZ-M",
+              "name": "亭林",
+              "lat": "30.880926",
+              "lon": "121.320947",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Z",
+          "towns": [
+            {
+              "id": 62643,
+              "code": "EQtaYq4ETSs",
+              "name": "张堰",
+              "lat": "30.805337",
+              "lon": "121.29687",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            },
+            {
+              "id": 62657,
+              "code": "OkUC5JgLIHY",
+              "name": "朱泾",
+              "lat": "30.893902",
+              "lon": "121.190955",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "code": "GALdhtoBjjE",
+      "name": "崇明",
+      "lat": "31.643356",
+      "lon": "121.408462",
+      "houseNum": 0,
+      "subList": [
+        {
+          "letter": "C",
+          "towns": [
+            {
+              "id": 111731,
+              "code": "P7RZyIv-29Y",
+              "name": "崇明县",
+              "lat": "31.645425",
+              "lon": "121.419279",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "H",
+          "towns": [
+            {
+              "id": 111734,
+              "code": "VzAhsdXd11Y",
+              "name": "横沙岛",
+              "lat": "31.342168",
+              "lon": "121.846828",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        },
+        {
+          "letter": "Z",
+          "towns": [
+            {
+              "id": 111733,
+              "code": "ckBtoE7K6E8",
+              "name": "长兴岛",
+              "lat": "31.399531",
+              "lon": "121.702129",
+              "spell": null,
+              "shortSpell": null,
+              "staticFlag": null,
+              "serialCode": null,
+              "lineCode": 0,
+              "pinyinName": null,
+              "houseNum": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]

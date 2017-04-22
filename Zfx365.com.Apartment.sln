@@ -1,0 +1,173 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 Common 基础结构层", "01 Common 基础结构层", "{0F61BF7B-76D7-4837-A445-98F3D520DA86}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 Web 应用程序", "05 Web 应用程序", "{D3EF0407-4FE8-46FB-9DDC-AC9E1B8DFA0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07 Test 测试", "07 Test 测试", "{8191F4E9-0670-445F-94B8-7357C2CFB3BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06 Domain 应用服务层", "06 Domain 应用服务层", "{D143EDA7-1C44-4713-9075-EABC9F15E339}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApi", "WebApi", "{EEFD6ED6-1E5B-49BD-9E3A-60DA4C4BA918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFine.Data", "NFine.Data\NFine.Data.csproj", "{F71003E8-A836-48F4-9DF6-DF9095CEBD18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFine.Mapping", "NFine.Mapping\NFine.Mapping.csproj", "{4E642CBE-F6C5-4CB9-9474-6B349652FE77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFine.Repository", "NFine.Repository\NFine.Repository.csproj", "{AFCB668F-673F-4AAB-9A20-5BA10D825EB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFine.Domain", "NFine.Domain\NFine.Domain.csproj", "{7DC886CD-B8A0-44E8-AADD-57FCB0CFECB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFine.Application", "NFine.Application\NFine.Application.csproj", "{F2035EE2-B73D-4FB8-A433-CAB465DE6A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apartment.Common", "Apartment.Common\Apartment.Common.csproj", "{7B4462AF-CD37-49D6-ABAC-5015D753CD34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apartment.Manager", "Apartment.Manager\Apartment.Manager.csproj", "{A15657F9-0401-48DD-BA9A-37117C4B5FE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apartment.ViewModel", "Apartment.ViewModel\Apartment.ViewModel.csproj", "{509A7432-D813-427A-8D49-24A16E99F819}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 Model 模型层", "02 Model 模型层", "{18EEF226-7994-432A-8787-A7ECBAC923A6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 Dal 数据操作层", "03 Dal 数据操作层", "{8ADF0967-C849-467A-BB3E-A243B844443B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apartment.BLL", "Apartment.BLL\Apartment.BLL.csproj", "{08BA7864-E219-43B2-AA44-7580B3FA1B57}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 Bll 业务操作层", "04 Bll 业务操作层", "{38225A70-ACBD-46F9-9E52-6FF5FB938320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apartment.Model", "Apartment.Model\Apartment.Model.csproj", "{58025F70-07BF-4CF1-8BD7-4E93A676C4DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apartment.Dal", "Apartment.Dal\Apartment.Dal.csproj", "{D35248A8-23B5-4751-BDB3-CB3BD311EEF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apartment.Bll.Test", "Apartment.Bll.Test\Apartment.Bll.Test.csproj", "{17955114-F7B3-4BC3-ACD3-45D538C23754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F71003E8-A836-48F4-9DF6-DF9095CEBD18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71003E8-A836-48F4-9DF6-DF9095CEBD18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71003E8-A836-48F4-9DF6-DF9095CEBD18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71003E8-A836-48F4-9DF6-DF9095CEBD18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E642CBE-F6C5-4CB9-9474-6B349652FE77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E642CBE-F6C5-4CB9-9474-6B349652FE77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E642CBE-F6C5-4CB9-9474-6B349652FE77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E642CBE-F6C5-4CB9-9474-6B349652FE77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCB668F-673F-4AAB-9A20-5BA10D825EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCB668F-673F-4AAB-9A20-5BA10D825EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCB668F-673F-4AAB-9A20-5BA10D825EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCB668F-673F-4AAB-9A20-5BA10D825EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC886CD-B8A0-44E8-AADD-57FCB0CFECB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC886CD-B8A0-44E8-AADD-57FCB0CFECB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC886CD-B8A0-44E8-AADD-57FCB0CFECB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC886CD-B8A0-44E8-AADD-57FCB0CFECB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2035EE2-B73D-4FB8-A433-CAB465DE6A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2035EE2-B73D-4FB8-A433-CAB465DE6A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2035EE2-B73D-4FB8-A433-CAB465DE6A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2035EE2-B73D-4FB8-A433-CAB465DE6A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4462AF-CD37-49D6-ABAC-5015D753CD34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4462AF-CD37-49D6-ABAC-5015D753CD34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4462AF-CD37-49D6-ABAC-5015D753CD34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4462AF-CD37-49D6-ABAC-5015D753CD34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15657F9-0401-48DD-BA9A-37117C4B5FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15657F9-0401-48DD-BA9A-37117C4B5FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15657F9-0401-48DD-BA9A-37117C4B5FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15657F9-0401-48DD-BA9A-37117C4B5FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{509A7432-D813-427A-8D49-24A16E99F819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509A7432-D813-427A-8D49-24A16E99F819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509A7432-D813-427A-8D49-24A16E99F819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509A7432-D813-427A-8D49-24A16E99F819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08BA7864-E219-43B2-AA44-7580B3FA1B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08BA7864-E219-43B2-AA44-7580B3FA1B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08BA7864-E219-43B2-AA44-7580B3FA1B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08BA7864-E219-43B2-AA44-7580B3FA1B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58025F70-07BF-4CF1-8BD7-4E93A676C4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58025F70-07BF-4CF1-8BD7-4E93A676C4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58025F70-07BF-4CF1-8BD7-4E93A676C4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58025F70-07BF-4CF1-8BD7-4E93A676C4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D35248A8-23B5-4751-BDB3-CB3BD311EEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35248A8-23B5-4751-BDB3-CB3BD311EEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35248A8-23B5-4751-BDB3-CB3BD311EEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35248A8-23B5-4751-BDB3-CB3BD311EEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17955114-F7B3-4BC3-ACD3-45D538C23754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17955114-F7B3-4BC3-ACD3-45D538C23754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17955114-F7B3-4BC3-ACD3-45D538C23754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17955114-F7B3-4BC3-ACD3-45D538C23754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EEFD6ED6-1E5B-49BD-9E3A-60DA4C4BA918} = {D3EF0407-4FE8-46FB-9DDC-AC9E1B8DFA0E}
+		{F71003E8-A836-48F4-9DF6-DF9095CEBD18} = {D143EDA7-1C44-4713-9075-EABC9F15E339}
+		{4E642CBE-F6C5-4CB9-9474-6B349652FE77} = {D143EDA7-1C44-4713-9075-EABC9F15E339}
+		{AFCB668F-673F-4AAB-9A20-5BA10D825EB7} = {D143EDA7-1C44-4713-9075-EABC9F15E339}
+		{7DC886CD-B8A0-44E8-AADD-57FCB0CFECB8} = {D143EDA7-1C44-4713-9075-EABC9F15E339}
+		{F2035EE2-B73D-4FB8-A433-CAB465DE6A2A} = {D143EDA7-1C44-4713-9075-EABC9F15E339}
+		{7B4462AF-CD37-49D6-ABAC-5015D753CD34} = {0F61BF7B-76D7-4837-A445-98F3D520DA86}
+		{A15657F9-0401-48DD-BA9A-37117C4B5FE2} = {D3EF0407-4FE8-46FB-9DDC-AC9E1B8DFA0E}
+		{509A7432-D813-427A-8D49-24A16E99F819} = {18EEF226-7994-432A-8787-A7ECBAC923A6}
+		{08BA7864-E219-43B2-AA44-7580B3FA1B57} = {38225A70-ACBD-46F9-9E52-6FF5FB938320}
+		{58025F70-07BF-4CF1-8BD7-4E93A676C4DA} = {18EEF226-7994-432A-8787-A7ECBAC923A6}
+		{D35248A8-23B5-4751-BDB3-CB3BD311EEF7} = {8ADF0967-C849-467A-BB3E-A243B844443B}
+		{17955114-F7B3-4BC3-ACD3-45D538C23754} = {8191F4E9-0670-445F-94B8-7357C2CFB3BB}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 13
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://192.168.1.44:8080/tfs/zfx365
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Apartment.Common\\Apartment.Common.csproj
+		SccProjectTopLevelParentUniqueName1 = Zfx365.com.Apartment.sln
+		SccProjectName1 = Apartment.Common
+		SccLocalPath1 = Apartment.Common
+		SccProjectUniqueName2 = NFine.Data\\NFine.Data.csproj
+		SccProjectTopLevelParentUniqueName2 = Zfx365.com.Apartment.sln
+		SccProjectName2 = NFine.Data
+		SccLocalPath2 = NFine.Data
+		SccProjectUniqueName3 = NFine.Domain\\NFine.Domain.csproj
+		SccProjectTopLevelParentUniqueName3 = Zfx365.com.Apartment.sln
+		SccProjectName3 = NFine.Domain
+		SccLocalPath3 = NFine.Domain
+		SccProjectUniqueName4 = NFine.Mapping\\NFine.Mapping.csproj
+		SccProjectTopLevelParentUniqueName4 = Zfx365.com.Apartment.sln
+		SccProjectName4 = NFine.Mapping
+		SccLocalPath4 = NFine.Mapping
+		SccProjectUniqueName5 = NFine.Repository\\NFine.Repository.csproj
+		SccProjectTopLevelParentUniqueName5 = Zfx365.com.Apartment.sln
+		SccProjectName5 = NFine.Repository
+		SccLocalPath5 = NFine.Repository
+		SccProjectUniqueName6 = NFine.Application\\NFine.Application.csproj
+		SccProjectTopLevelParentUniqueName6 = Zfx365.com.Apartment.sln
+		SccProjectName6 = NFine.Application
+		SccLocalPath6 = NFine.Application
+		SccProjectUniqueName7 = Apartment.Manager\\Apartment.Manager.csproj
+		SccProjectTopLevelParentUniqueName7 = Zfx365.com.Apartment.sln
+		SccProjectName7 = Apartment.Manager
+		SccLocalPath7 = Apartment.Manager
+		SccProjectUniqueName8 = Apartment.ViewModel\\Apartment.ViewModel.csproj
+		SccProjectTopLevelParentUniqueName8 = Zfx365.com.Apartment.sln
+		SccProjectName8 = Apartment.ViewModel
+		SccLocalPath8 = Apartment.ViewModel
+		SccProjectUniqueName9 = Apartment.BLL\\Apartment.BLL.csproj
+		SccProjectTopLevelParentUniqueName9 = Zfx365.com.Apartment.sln
+		SccProjectName9 = Apartment.BLL
+		SccLocalPath9 = Apartment.BLL
+		SccProjectUniqueName10 = Apartment.Model\\Apartment.Model.csproj
+		SccProjectTopLevelParentUniqueName10 = Zfx365.com.Apartment.sln
+		SccProjectName10 = Apartment.Model
+		SccLocalPath10 = Apartment.Model
+		SccProjectUniqueName11 = Apartment.Dal\\Apartment.Dal.csproj
+		SccProjectTopLevelParentUniqueName11 = Zfx365.com.Apartment.sln
+		SccProjectName11 = Apartment.Dal
+		SccLocalPath11 = Apartment.Dal
+		SccProjectUniqueName12 = Apartment.Bll.Test\\Apartment.Bll.Test.csproj
+		SccProjectTopLevelParentUniqueName12 = Zfx365.com.Apartment.sln
+		SccProjectName12 = Apartment.Bll.Test
+		SccLocalPath12 = Apartment.Bll.Test
+	EndGlobalSection
+EndGlobal

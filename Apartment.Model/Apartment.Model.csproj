@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{58025F70-07BF-4CF1-8BD7-4E93A676C4DA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Apartment.Model</RootNamespace>
+    <AssemblyName>Apartment.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dos.ORM">
+      <HintPath>..\packages\Dos.ORM.1.10.6.2\lib\net40\Dos.ORM.dll</HintPath>
+    </Reference>
+    <Reference Include="Dos.ORM.MySql">
+      <HintPath>..\packages\Dos.ORM.MySql.1.1.7.0\lib\net40\Dos.ORM.MySql.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf">
+      <HintPath>..\packages\Google.Protobuf.3.0.0\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.7.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MySql.Data.7.0.6-IR31\lib\net451\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.2-beta1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation">
+      <HintPath>..\packages\System.Runtime.InteropServices.RuntimeInformation.4.0.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EntityExt.cs" />
+    <Compile Include="Enum\AuditStatus.cs" />
+    <Compile Include="Enum\House\LogEnum.cs" />
+    <Compile Include="Enum\Order\IsAgree.cs" />
+    <Compile Include="Enum\Order\LookStatus.cs" />
+    <Compile Include="Enum\Order\OrderStatus.cs" />
+    <Compile Include="Enum\SourceWay.cs" />
+    <Compile Include="Enum\Common.cs" />
+    <Compile Include="Enum\User\depositLogType.cs" />
+    <Compile Include="Enum\User\MsgType.cs" />
+    <Compile Include="Enum\User\UserStatus.cs" />
+    <Compile Include="Enum\User\UserTrackLogType .cs" />
+    <Compile Include="Enum\User\UserType.cs" />
+    <Compile Include="ModelsExp\ResponseData.cs" />
+    <Compile Include="ModelsExp\siteconfig.cs" />
+    <Compile Include="ModelsExp\SysConfig.cs" />
+    <Compile Include="Models\apimanager.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ap_apartment.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ap_billdetailinfo.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ap_billinfo.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ap_contract.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ap_fileinfo.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ap_house.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ap_houseexpand.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ap_housepic.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ap_housevillage.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ap_housevillagepic.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ap_leaseoffer.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ap_loginfo.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ap_order.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ap_users.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\contract.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DBApartment.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DbHelper.cs" />
+    <Compile Include="Models\sendlistlog.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sys_area.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sys_dbbackup.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sys_filterip.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sys_groups.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sys_items.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sys_itemsdetail.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sys_log.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sys_module.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sys_modulebutton.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sys_moduleform.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sys_moduleforminstance.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sys_organize.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sys_role.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sys_roleauthorize.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sys_subway.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sys_user.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sys_userlogon.cs">
+      <DependentUpon>DBApartment.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\UploadConfig.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RequestModels\BaseListRequest.cs" />
+    <Compile Include="RequestModels\BaseRequest.cs" />
+    <Compile Include="RequestModels\BookingHouse.cs" />
+    <Compile Include="RequestModels\CaptchaRequest.cs" />
+    <Compile Include="RequestModels\DepositRequest.cs" />
+    <Compile Include="RequestModels\HouseAuditRequest.cs" />
+    <Compile Include="RequestModels\HouseCollectLogsRequest.cs" />
+    <Compile Include="RequestModels\HouseExpandRequest.cs" />
+    <Compile Include="RequestModels\HousePicRequest.cs" />
+    <Compile Include="RequestModels\HouseRefreshRequest.cs" />
+    <Compile Include="RequestModels\HouseRequest.cs" />
+    <Compile Include="RequestModels\HouseVillageAuditRequest.cs" />
+    <Compile Include="RequestModels\HouseVillagePicRequest.cs" />
+    <Compile Include="RequestModels\HouseVillageRequest.cs" />
+    <Compile Include="RequestModels\LeaseOfferRequest.cs" />
+    <Compile Include="RequestModels\OrderLeaseContractRequest.cs" />
+    <Compile Include="RequestModels\OrderRequest.cs" />
+    <Compile Include="RequestModels\UsersRequest.cs" />
+    <Compile Include="RequestModels\VaildUserLoginRequest.cs" />
+    <Compile Include="ResponseModels\BookingHouseResponse.cs" />
+    <Compile Include="ResponseModels\CaptchaResponse.cs" />
+    <Compile Include="ResponseModels\HouseCollectLogResponse.cs" />
+    <Compile Include="ResponseModels\HouseExpandResponse.cs" />
+    <Compile Include="ResponseModels\HousePicResponse.cs" />
+    <Compile Include="ResponseModels\HouseResponse.cs" />
+    <Compile Include="ResponseModels\HouseVillagePicResponse.cs" />
+    <Compile Include="ResponseModels\HouseVillageResponse.cs" />
+    <Compile Include="ResponseModels\LeaseOfferResponse.cs" />
+    <Compile Include="ResponseModels\OrderLeaseContractResponse.cs" />
+    <Compile Include="ResponseModels\OrderResponse.cs" />
+    <Compile Include="ResponseModels\PageResponse.cs" />
+    <Compile Include="ResponseModels\UploadResponse.cs" />
+    <Compile Include="ResponseModels\UsersResponse.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Entity\hp.ttinclude" />
+    <None Include="Entity\ma.ttinclude" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Models\DBApartment.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>DBApartment.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Apartment.Common\Apartment.Common.csproj">
+      <Project>{7B4462AF-CD37-49D6-ABAC-5015D753CD34}</Project>
+      <Name>Apartment.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

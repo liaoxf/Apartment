@@ -1,0 +1,971 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Apartment.Manager.ControllerBase" Collapsed="true">
+    <Position X="51" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQCAAAAAUABCwAIBBYCgCAAAgAEEAARCQmAAoECgAA=</HashCode>
+      <FileName>App_Start\01 Handler\ControllerBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.HandlerAjaxOnlyAttribute" Collapsed="true">
+    <Position X="116.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\01 Handler\HandlerAjaxOnlyAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.HandlerAuthorizeAttribute" Collapsed="true">
+    <Position X="118.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAACAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\01 Handler\HandlerAuthorizeAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.HandlerErrorAttribute" Collapsed="true">
+    <Position X="120" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>App_Start\01 Handler\HandlerErrorAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.HandlerLoginAttribute" Collapsed="true">
+    <Position X="106" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\01 Handler\HandlerLoginAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.FilterConfig" Collapsed="true">
+    <Position X="114.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\FilterConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.RouteConfig" Collapsed="true">
+    <Position X="111.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\RouteConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.WebApiConfig" Collapsed="true">
+    <Position X="104.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\WebApiConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.MvcApplication" Collapsed="true">
+    <Position X="120" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIACAAAAAAAAIAAAAAAAAAAAAAAAIAEAAAAAABAA=</HashCode>
+      <FileName>Global.asax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.App_Start._01_Handler.HandlerJob" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="104.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\01 Handler\HandlerJob.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Apartment.Manager.Areas.Banners.BannersAreaRegistration" Collapsed="true">
+    <Position X="106" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\Banners\BannersAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.Banners.Controllers.BannersController" Collapsed="true">
+    <Position X="92.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAEAAAQAEABBAEAAAgAAAA=</HashCode>
+      <FileName>Areas\Banners\Controllers\BannersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.CommonPageManage.CommonPageManageAreaRegistration" Collapsed="true">
+    <Position X="114.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\CommonPageManage\CommonPageManageAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.CommonPageManage.Controllers.DistrictController" Collapsed="true">
+    <Position X="109.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\CommonPageManage\Controllers\DistrictController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.CommonPageManage.Controllers.HouseController" Collapsed="true">
+    <Position X="20.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAQAAABIAAAAAgAAAI=</HashCode>
+      <FileName>Areas\CommonPageManage\Controllers\HouseController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.CommonPageManage.Controllers.HouseVillageController" Collapsed="true">
+    <Position X="29.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAACAAAAAAAQAAABAAAAAAgAAAI=</HashCode>
+      <FileName>Areas\CommonPageManage\Controllers\HouseVillageController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.CommonPageManage.Controllers.LeaseCustomerController" Collapsed="true">
+    <Position X="41" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAQAAABAAAAAAAAAAI=</HashCode>
+      <FileName>Areas\CommonPageManage\Controllers\LeaseCustomerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.CommonPageManage.Controllers.OrderController" Collapsed="true">
+    <Position X="106" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAgAEAA=</HashCode>
+      <FileName>Areas\CommonPageManage\Controllers\OrderController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.CommonPageManage.Controllers.SysUserController" Collapsed="true">
+    <Position X="118.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\CommonPageManage\Controllers\SysUserController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.CommonPageManage.Controllers.TradingAreaController" Collapsed="true">
+    <Position X="120" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Areas\CommonPageManage\Controllers\TradingAreaController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.CommonPageManage.Controllers.UserController" Collapsed="true">
+    <Position X="109.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Areas\CommonPageManage\Controllers\UserController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.CommonPageManage.Models.OrderListPartModel" Collapsed="true">
+    <Position X="109.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAIAAAAAAAA=</HashCode>
+      <FileName>Areas\CommonPageManage\Models\OrderListPartModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.ComplaintManage.ComplaintManageAreaRegistration" Collapsed="true">
+    <Position X="116.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\ComplaintManage\ComplaintManageAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.ComplaintManage.Controllers.ComplaintController" Collapsed="true">
+    <Position X="95" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAgAQAAAAAACAAAAAAAQAAEBAAAAAAgAAAA=</HashCode>
+      <FileName>Areas\ComplaintManage\Controllers\ComplaintController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.ComplaintManage.Models.ComplaintPartModel" Collapsed="true">
+    <Position X="118.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Areas\ComplaintManage\Models\ComplaintPartModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.CouponManage.Controllers.CouponController" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAACAAAAEAAQgAABAAAAAAoAQAA=</HashCode>
+      <FileName>Areas\CouponManage\Controllers\CouponController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.CouponManage.CouponManageAreaRegistration" Collapsed="true">
+    <Position X="107.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\CouponManage\CouponManageAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.DepositLog.Controllers.DepositController" Collapsed="true">
+    <Position X="32" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAACAAAEAgAQAEADBBAAIAgAAAA=</HashCode>
+      <FileName>Areas\DepositLog\Controllers\DepositController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.DepositLog.DepositLogAreaRegistration" Collapsed="true">
+    <Position X="116.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\DepositLog\DepositLogAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.DepositRefund.Controllers.DepositRefundController" Collapsed="true">
+    <Position X="50" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAIAAAAAFAAAAACAADAAAEAiAQgkIDBBAAoAgAAAA=</HashCode>
+      <FileName>Areas\DepositRefund\Controllers\DepositRefundController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.DepositRefund.DepositRefundAreaRegistration" Collapsed="true">
+    <Position X="104.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\DepositRefund\DepositRefundAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.ExampleManage.Controllers.BarCodeController" Collapsed="true">
+    <Position X="63.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\ExampleManage\Controllers\BarCodeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.ExampleManage.Controllers.DemoUIPController" Collapsed="true">
+    <Position X="70.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Areas\ExampleManage\Controllers\DemoUIPController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.ExampleManage.Controllers.PrintController" Collapsed="true">
+    <Position X="79.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\ExampleManage\Controllers\PrintController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.ExampleManage.Controllers.SendMailController" Collapsed="true">
+    <Position X="83.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\ExampleManage\Controllers\SendMailController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.ExampleManage.Controllers.SendMessagesController" Collapsed="true">
+    <Position X="97.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\ExampleManage\Controllers\SendMessagesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.ExampleManage.Controllers.SignetController" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\ExampleManage\Controllers\SignetController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.ExampleManage.ExampleManageAreaRegistration" Collapsed="true">
+    <Position X="113" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\ExampleManage\ExampleManageAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.HelpCenter.Controllers.HelpInfoController" Collapsed="true">
+    <Position X="23" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEACAAAAAAAAAAAAACCAAAAAAAAAABAAAAAAAAIAA=</HashCode>
+      <FileName>Areas\HelpCenter\Controllers\HelpInfoController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.HelpCenter.HelpCenterAreaRegistration" Collapsed="true">
+    <Position X="109.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpCenter\HelpCenterAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.HouseManage.Controllers.HouseAuditLogController" Collapsed="true">
+    <Position X="43.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAIAACAAAEAAAQAEABBAUAAAAAAAA=</HashCode>
+      <FileName>Areas\HouseManage\Controllers\HouseAuditLogController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.HouseManage.Controllers.HouseController" Collapsed="true">
+    <Position X="52.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQAAEgAAABAAgAgAAKEAgMIQiQAEADBCQqBAgABAI=</HashCode>
+      <FileName>Areas\HouseManage\Controllers\HouseController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.HouseManage.Controllers.HouseExpandController" Collapsed="true">
+    <Position X="59" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAEAAAAAEABBAEAAAgAAAA=</HashCode>
+      <FileName>Areas\HouseManage\Controllers\HouseExpandController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.HouseManage.Controllers.HousePicsController" Collapsed="true">
+    <Position X="65.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAEAAAQAEABBAEACAAAAAA=</HashCode>
+      <FileName>Areas\HouseManage\Controllers\HousePicsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.HouseManage.Controllers.HouseRefreshLogController" Collapsed="true">
+    <Position X="72.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAEAAAQAEABBAEAAAAAAAA=</HashCode>
+      <FileName>Areas\HouseManage\Controllers\HouseRefreshLogController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.HouseManage.HouseManageAreaRegistration" Collapsed="true">
+    <Position X="104.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HouseManage\HouseManageAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.HouseManage.Models.DetailsModel" Collapsed="true">
+    <Position X="107.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAADAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HouseManage\Models\DetailsModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.HouseManage.Models.HousePartModel" Collapsed="true">
+    <Position X="106" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HouseManage\Models\HousePartModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.HouseVillage.Controllers.VillageAuditLogController" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAEAAAQAEABBAEAAAgAAAA=</HashCode>
+      <FileName>Areas\HouseVillage\Controllers\VillageAuditLogController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.HouseVillage.Controllers.VillageController" Collapsed="true">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAEABAAAABAAAAAAACAAAEAAGQQEADBAQAAAiAAAA=</HashCode>
+      <FileName>Areas\HouseVillage\Controllers\VillageController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.HouseVillage.Controllers.VillagePicController" Collapsed="true">
+    <Position X="25.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAACAAAEAAAQAEABBAEAAAAAAAA=</HashCode>
+      <FileName>Areas\HouseVillage\Controllers\VillagePicController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapDistance" Collapsed="true">
+    <Position X="113" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAABAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HouseVillage\Controllers\VillageController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Result" Collapsed="true">
+    <Position X="107.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HouseVillage\Controllers\VillageController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Route" Collapsed="true">
+    <Position X="109.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HouseVillage\Controllers\VillageController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orgin" Collapsed="true">
+    <Position X="118.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HouseVillage\Controllers\VillageController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Content" Collapsed="true">
+    <Position X="120" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HouseVillage\Controllers\VillageController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MysqlDbTypeMap" Collapsed="true">
+    <Position X="104.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAABBAAAAAAAAAAA=</HashCode>
+      <FileName>GenerateCode\DbHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DbHelper" Collapsed="true">
+    <Position X="111.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GenerateCode\DbHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DbTable" Collapsed="true">
+    <Position X="113" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAACAAEAAAAAAAAAEAAAAgAAAAEABAQAAgBA=</HashCode>
+      <FileName>GenerateCode\DbHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DbColumn" Collapsed="true">
+    <Position X="109.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAEEAAAAAAAAAEAIAAAABIAAAACAQAAAAAAoAA=</HashCode>
+      <FileName>GenerateCode\DbHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.HouseVillage.HouseVillageAreaRegistration" Collapsed="true">
+    <Position X="114.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HouseVillage\HouseVillageAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.HouseVillage.Models.DetailsModel" Collapsed="true">
+    <Position X="106" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HouseVillage\Models\DetailsModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.HouseVillage.Models.SearchModel" Collapsed="true">
+    <Position X="113" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Areas\HouseVillage\Models\SearchModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.LandlordManage.Controllers.LandlordController" Collapsed="true">
+    <Position X="34.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEAAAACAAAAAKAAACAhJAAAAFAAAAAAAQABg=</HashCode>
+      <FileName>Areas\LandlordManage\Controllers\LandlordController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.LandlordManage.LandlordManageAreaRegistration" Collapsed="true">
+    <Position X="120" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\LandlordManage\LandlordManageAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.LeaseContractManage.Controllers.LeaseContractController" Collapsed="true">
+    <Position X="54.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAYAIgAAAAUAAAEAAQAiEAAEAAAQIAABBAAgAAgAAAA=</HashCode>
+      <FileName>Areas\LeaseContractManage\Controllers\LeaseContractController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.LeaseContractManage.LeaseContractManageAreaRegistration" Collapsed="true">
+    <Position X="104.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\LeaseContractManage\LeaseContractManageAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.LeaseContractManage.Models.ContractPartModel" Collapsed="true">
+    <Position X="104.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Areas\LeaseContractManage\Models\ContractPartModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.LeaseOfferManage.Controllers.LeaseOfferController" Collapsed="true">
+    <Position X="74.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAghAAEASAAAAAAgACAAAAAAAQACARAEACAAAAAUA=</HashCode>
+      <FileName>Areas\LeaseOfferManage\Controllers\LeaseOfferController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.LeaseOfferManage.LeaseOfferManageAreaRegistration" Collapsed="true">
+    <Position X="107.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\LeaseOfferManage\LeaseOfferManageAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.MsgTemplateManage.Controllers.MsgTemplateController" Collapsed="true">
+    <Position X="86" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEACAABAAAAACAKAAAAQACYAAAhAAAAAAAEAAA=</HashCode>
+      <FileName>Areas\MsgTemplateManage\Controllers\MsgTemplateController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.MsgTemplateManage.MsgTemplateManageAreaRegistration" Collapsed="true">
+    <Position X="118.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\MsgTemplateManage\MsgTemplateManageAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.OrderManage.Controllers.OrderController" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAgAABgQSAgIEIjACoQEEAAgUIiQlQAAiABgACAA=</HashCode>
+      <FileName>Areas\OrderManage\Controllers\OrderController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.OrderManage.Models.LandlordInfoView" Collapsed="true">
+    <Position X="118.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAYAQAAAAAAAIAAAAAIAAAAgACAAAAABAigCACQE=</HashCode>
+      <FileName>Areas\OrderManage\Models\LandlordInfoView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.OrderManage.Models.OrderPartModel" Collapsed="true">
+    <Position X="113" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\OrderManage\Models\OrderPartModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.OrderManage.OrderManageAreaRegistration" Collapsed="true">
+    <Position X="111.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\OrderManage\OrderManageAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.ProductManage.Controllers.ProductController" Collapsed="true">
+    <Position X="45.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\ProductManage\Controllers\ProductController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.ProductManage.ProductManageAreaRegistration" Collapsed="true">
+    <Position X="104.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\ProductManage\ProductManageAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.ReportManage.Controllers.EchartsController" Collapsed="true">
+    <Position X="111.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Areas\ReportManage\Controllers\EchartsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.ReportManage.Controllers.HighchartsController" Collapsed="true">
+    <Position X="111.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACBACAAAABAABAAv8AgAAAAAAAAAAIAAAAAAAI=</HashCode>
+      <FileName>Areas\ReportManage\Controllers\HighchartsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.ReportManage.ReportManageAreaRegistration" Collapsed="true">
+    <Position X="106" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\ReportManage\ReportManageAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemManage.Controllers.AreaController" Collapsed="true">
+    <Position X="81.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACAAAAAAAAIAEAIEAAAAAgAABAAAAAgAAAA=</HashCode>
+      <FileName>Areas\SystemManage\Controllers\AreaController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemManage.Controllers.DutyController" Collapsed="true">
+    <Position X="88.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAQAAAABAAAAAgAAAA=</HashCode>
+      <FileName>Areas\SystemManage\Controllers\DutyController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemManage.Controllers.GroupsController" Collapsed="true">
+    <Position X="99.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAEAAAQAEABBAAAAAgAAAA=</HashCode>
+      <FileName>Areas\SystemManage\Controllers\GroupsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemManage.Controllers.ItemsDataController" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAQAAAAIAAAAAEAIEIACQAAAABAAAAAgAAAQ=</HashCode>
+      <FileName>Areas\SystemManage\Controllers\ItemsDataController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemManage.Controllers.ItemsTypeController" Collapsed="true">
+    <Position X="16.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAEAAEIAAAAEAABAAAAAgAAAA=</HashCode>
+      <FileName>Areas\SystemManage\Controllers\ItemsTypeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemManage.Controllers.ModuleButtonController" Collapsed="true">
+    <Position X="27.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAAAAAAAAAAAEAQEAAAAAAAAFAAAAAkAAAQ=</HashCode>
+      <FileName>Areas\SystemManage\Controllers\ModuleButtonController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemManage.Controllers.ModuleController" Collapsed="true">
+    <Position X="36.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAAAAAAAAAAAEAAEAAAAAAAABAAAAAkAAAA=</HashCode>
+      <FileName>Areas\SystemManage\Controllers\ModuleController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemManage.Controllers.OrganizeController" Collapsed="true">
+    <Position X="47.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACAAAAAAAAAAEAAEAAAAAEAABAAAAAgAAAA=</HashCode>
+      <FileName>Areas\SystemManage\Controllers\OrganizeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemManage.Controllers.RoleAuthorizeController" Collapsed="true">
+    <Position X="56.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAgAAAAAAAAAAABAAAAAAAAAAQ=</HashCode>
+      <FileName>Areas\SystemManage\Controllers\RoleAuthorizeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemManage.Controllers.RoleController" Collapsed="true">
+    <Position X="61.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAEAAAQAAABBAAAAAgAAAY=</HashCode>
+      <FileName>Areas\SystemManage\Controllers\RoleController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemManage.Controllers.SubwayController" Collapsed="true">
+    <Position X="68" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAgAAAAAIAIAFAIEIAAAAgAABAAAAAgAAAA=</HashCode>
+      <FileName>Areas\SystemManage\Controllers\SubwayController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemManage.Controllers.UserController" Collapsed="true">
+    <Position X="77" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEABACEAAAAAAAAAAEAAgQAAAABAAAYEgAAAA=</HashCode>
+      <FileName>Areas\SystemManage\Controllers\UserController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemManage.SystemManageAreaRegistration" Collapsed="true">
+    <Position X="114.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\SystemManage\SystemManageAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemSecurity.Controllers.DbBackupController" Collapsed="true">
+    <Position X="90.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAIAAAAAAAAEAAAQAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Areas\SystemSecurity\Controllers\DbBackupController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemSecurity.Controllers.FilterIPController" Collapsed="true">
+    <Position X="101.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAQAAAABAAAACgAAAA=</HashCode>
+      <FileName>Areas\SystemSecurity\Controllers\FilterIPController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemSecurity.Controllers.LogController" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAQAAAAAAQCAAAAAAA=</HashCode>
+      <FileName>Areas\SystemSecurity\Controllers\LogController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemSecurity.Controllers.ServerMonitoringController" Collapsed="true">
+    <Position X="18.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\SystemSecurity\Controllers\ServerMonitoringController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.SystemSecurity.SystemSecurityAreaRegistration" Collapsed="true">
+    <Position X="116.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\SystemSecurity\SystemSecurityAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.UserManage.Controllers.UserController" Collapsed="true">
+    <Position X="38.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAEAAABCAAAAACAAACBCDAAAgFAAAAAECAAgA=</HashCode>
+      <FileName>Areas\UserManage\Controllers\UserController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Areas.UserManage.UserManageAreaRegistration" Collapsed="true">
+    <Position X="118.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\UserManage\UserManageAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Controllers.ClientsDataController" Collapsed="true">
+    <Position X="113" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAgABAABAAAggAABAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\ClientsDataController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Controllers.HomeController" Collapsed="true">
+    <Position X="113" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\HomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Controllers.LoginController" Collapsed="true">
+    <Position X="109.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAEAAAAAAAAAAAAgAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\LoginController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apartment.Manager.Controllers.UploadController" Collapsed="true">
+    <Position X="104.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAEAAAAAAgAAABAAgAAACAAAAAAAAA=</HashCode>
+      <FileName>Controllers\UploadController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.house" Collapsed="true">
+    <Position X="114.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAQCAwAABgAYAAAICCIARAwAEIgACwAEBABAggAAAhA=</HashCode>
+      <FileName>Utils\house.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.houseauditlog" Collapsed="true">
+    <Position X="116.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAAAAAAgAAAAAAAAAAAAAgCAAAAAAAAAgIAAA=</HashCode>
+      <FileName>Utils\houseauditlog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.houseexpand" Collapsed="true">
+    <Position X="120" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBACCAAEAgAAAAQAAAAAAAAAQAAkCAAEAABAAAAAAAA=</HashCode>
+      <FileName>Utils\houseexpand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.housepic" Collapsed="true">
+    <Position X="107.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAQCAAAAAAAAAAQAAAAAAgCAAAAABAAAAAAAA=</HashCode>
+      <FileName>Utils\housepic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.houserefreshlog" Collapsed="true">
+    <Position X="109.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAABAAAAAAAAAIAAAAAAAgAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Utils\houserefreshlog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.housevillage" Collapsed="true">
+    <Position X="113" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQCAAAEAAggAgAIAAIAAwAAQIAECAAAAABBAFEAAQA=</HashCode>
+      <FileName>Utils\housevillage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.housevillagepic" Collapsed="true">
+    <Position X="116.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAQCAAAAAAAAAAQAAAAAAACAAAAABAgAAAAAA=</HashCode>
+      <FileName>Utils\housevillagepic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.bookinghouse" Collapsed="true">
+    <Position X="107.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAASAAAAAAAAAAAAAAACAAAAAAAgCAAAAABAAAEAAAI=</HashCode>
+      <FileName>Utils\bookinghouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.leaseoffer" Collapsed="true">
+    <Position X="106" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAADAAAAAAAAAgAAAAAAAAgIAAAgCAAAAQBAAAAAAAI=</HashCode>
+      <FileName>Utils\leaseoffer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.orderleasecontract" Collapsed="true">
+    <Position X="107.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAABAAAgAAAAAAAAAgAAAAAAACAgEAABAASAAAAI=</HashCode>
+      <FileName>Utils\orderleasecontract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.orders" Collapsed="true">
+    <Position X="114.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAASAAAAQAACAgACBAAIAAAAAAgACAAAKgJAAAGAUAI=</HashCode>
+      <FileName>Utils\orders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.ordertracklog" Collapsed="true">
+    <Position X="116.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAAAACAAAAAAAIAAAAAAAACAAAAIAAAAAIAAI=</HashCode>
+      <FileName>Utils\ordertracklog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.banners" Collapsed="true">
+    <Position X="104.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAQAAAAEAAAAAYAAAAAAAACABAAIBAAACACAA=</HashCode>
+      <FileName>Utils\banners.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.bookviewhouse" Collapsed="true">
+    <Position X="109.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAAAAAAACAAAAAAAgIAAAgCAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Utils\bookviewhouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.captchalog" Collapsed="true">
+    <Position X="111.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAACAAAEAAAAAAAAAAAAAAgAAAAACAAAAAAAEAAAAEA=</HashCode>
+      <FileName>Utils\captchalog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.coupon" Collapsed="true">
+    <Position X="106" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAEAAAAAAAAAAAAAAAAAIAAgCAIAAIBAAAAAAQA=</HashCode>
+      <FileName>Utils\coupon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.depositlog" Collapsed="true">
+    <Position X="114.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAACAAAAIAAAAAAAAAAAAACAAAAACAAACQAACAAAAQA=</HashCode>
+      <FileName>Utils\depositlog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.depositrecharge" Collapsed="true">
+    <Position X="118.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACiAAAAAAAAAEQAIAAEAAgAAAiACAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Utils\depositrecharge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.depositrefund" Collapsed="true">
+    <Position X="120" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAiAAAEAQAAAAQAAAIEEAgAAgAACgAAABDAEAEAAAA=</HashCode>
+      <FileName>Utils\depositrefund.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.helpcenter" Collapsed="true">
+    <Position X="107.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAAAAAAAAAABAYAAAAAAAACACAAABAAACAAAA=</HashCode>
+      <FileName>Utils\helpcenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.housecollectlog" Collapsed="true">
+    <Position X="118.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAgAAAAAAAAAAAAAAAAgAAAAgCAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Utils\housecollectlog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.houseviewlog" Collapsed="true">
+    <Position X="111.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAAAAAAAAAAAAAAAgAAAAgCAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\houseviewlog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.loginlog" Collapsed="true">
+    <Position X="111.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAAAAAAAAAAAAAAABgAAAAICAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\loginlog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.msgsendlog" Collapsed="true">
+    <Position X="114.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAIAAAAAAAAAAAAAAEAAAAAAQCAAAAwAAAAAgAQA=</HashCode>
+      <FileName>Utils\msgsendlog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.msgtemplate" Collapsed="true">
+    <Position X="116.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAAAAAAAACABAIAAAEAAAACAAAAAJAAAGABQA=</HashCode>
+      <FileName>Utils\msgtemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.paylog" Collapsed="true">
+    <Position X="120" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAiAAEIAAAAAAQAAAAAEAgAAAAAGAAAAQBAABAEAQA=</HashCode>
+      <FileName>Utils\paylog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.usercalllog" Collapsed="true">
+    <Position X="106" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAAAAAAAAAAAAAAAgAAAAoCAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\usercalllog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.usercomplaint" Collapsed="true">
+    <Position X="107.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAIAAQAAAIAAAAAAAwEAAAQCAAAAUAAAAAAAAA=</HashCode>
+      <FileName>Utils\usercomplaint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.usercoupon" Collapsed="true">
+    <Position X="111.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAACABEBAAAAAAAACAAAAAgAAAAgCAAAAIBAEAAAAQA=</HashCode>
+      <FileName>Utils\usercoupon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.userfeedback" Collapsed="true">
+    <Position X="113" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAIAAAAAAAAAAAAAAgAAAgACAAAAQAACAAAAAA=</HashCode>
+      <FileName>Utils\userfeedback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.userinfoexpand" Collapsed="true">
+    <Position X="114.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAQAQAAAAAAgICAAAAAiAAAAIAAAAAAAAAgCACQA=</HashCode>
+      <FileName>Utils\userinfoexpand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.userinfotracklog" Collapsed="true">
+    <Position X="116.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAABAAAAAAAAAAAIAAgAAAEAAAAAAIAAAAAIAAA=</HashCode>
+      <FileName>Utils\userinfotracklog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zfx365.Com.UtilsModel.users" Collapsed="true">
+    <Position X="120" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAIAAAAAAAAAAAAQAAIAAAAgACAAAAAhAiAAAAQE=</HashCode>
+      <FileName>Utils\users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,203 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Index.cshtml";
+}
+<script>
+    var modulelUrl = "/systemmanage/groups/";//区域的路径
+    $(function () {
+        gridList();
+    })
+    var $gridList;
+    function gridList() {
+        $gridList = $("#gridList");
+        $gridList.dataGrid({
+            url: modulelUrl + "GetGridJson",
+            height: $(window).height() - 128,
+            colModel: [
+						{ label: "主键", name: "Id", hidden: true, key: true },
+                        { label: '名称', name: 'Name', width: 150, align: 'left' },
+						{
+						    label: '类别', name: 'Category', width: 150, align: 'left',
+						    formatter: function (cellvalue, options, rowObject) {
+						        return rowObject.Category == "1" ? "<span class='label label-success'>私人订制</span>" : rowObject.Category == "2" ? "<span  class='label label-defualt'>其他</span>" : "<span class='label label-warning'>未知</span>";
+						    }
+						},
+						{ label: '邮箱', name: 'Email', width: 150, align: 'left' },
+						{ label: '负责人手机号', name: 'Cellphone', width: 150, align: 'left' },
+						{ label: '创建时间', name: 'CreatedTime', width: 150, align: 'left' },
+
+            ],
+            pager: "#gridPager",
+            viewrecords: true
+        });
+        $("#btn_search").click(function () {
+            $gridList.jqGrid('setGridParam', {
+                postData: { keyword: $("#txt_keyword").val() },
+            }).trigger('reloadGrid');
+        });
+    }
+    function btn_add() {
+        $.modalOpen({
+            id: "Form",
+            title: "新增用户组",
+            url: modulelUrl + "create",
+            width: "800px",
+            height: "600px",
+            callBack: function (iframeId) {
+                top.frames[iframeId].submitForm();
+            }
+        });
+    }
+    function btn_edit() {
+        var keyValue = $("#gridList").jqGridRowValue().Id;
+        if (keyValue == undefined) {
+            $.modalAlert("请选择要操作的行！", 2);
+            return;
+        }
+        $.modalOpen({
+            id: "Form",
+            title: "修改用户组",
+            url: modulelUrl + "create?keyValue=" + keyValue,
+            width: "800px",
+            height: "600px",
+            callBack: function (iframeId) {
+                top.frames[iframeId].submitForm();
+            }
+        });
+    }
+    function btn_delete() {
+        var keyValue = $("#gridList").jqGridRowValue().Id;
+        if (keyValue == undefined) {
+            $.modalAlert("请选择要操作的行！", 2);
+            return;
+        }
+        $.deleteForm({
+            url: modulelUrl + "DeleteForm",
+            param: { keyValue: keyValue },
+            success: function () {
+                $.currentWindow().$("#gridList").trigger("reloadGrid");
+            }
+        })
+    }
+    //显示更多查询条件
+    function ShowMoreSearchHandler(obj) {
+        $('#TbMoreSeach').show();
+        
+        $(obj).attr('onclick', 'HideMoreSearchHandler(this)').html('<i class="fa fa-compress"></i>  收缩');
+    }
+    //隐藏查询条件
+    function HideMoreSearchHandler(obj) {
+        $('#TbMoreSeach').hide();
+        $(obj).attr('onclick', 'ShowMoreSearchHandler(this)').html('<i class="fa fa-expand"></i>  更多');
+    }
+</script>
+<style>
+    dl {
+        margin: 5px !important;
+    }
+
+    a:hover {
+        color: #ff6a00;
+    }
+
+    #SearchForm table tr {
+    }
+
+        #SearchForm table tr td {
+            padding-right: 10px;
+        }
+</style>
+<div class="topPanel">
+    <div class="search" style="float: inherit;">
+        <form id="SearchForm">
+            <table>
+                <tr>
+                   
+                    <td>
+                        <div class="input-group">
+                            <strong>名称：</strong>
+                            <div class="input-box">
+                                <input id="Name" name="Name" type="text" class="form-control" placeholder="名称">
+                            </div>
+                        </div>
+                    </td>
+                    <!--类别-->
+                    <td>
+                        <div class="input-group">
+                            <strong>类别：</strong>
+                            <div class="input-box">
+                                <select id="Category" name="Category" type="text" class="form-control">
+                                    <option>--请选择类别--</option>
+                                    <option value="1">私人订制</option>
+                                    <option value="2">其他</option>
+                                </select>
+                            </div>
+                        </div>
+                    </td>
+                    
+                    <!--邮箱-->
+                    <td>
+                        <div class="input-group">
+                            <strong>邮箱：</strong>
+                            <div class="input-box">
+                                <input id="Email" name="Email" type="text" class="form-control" placeholder="邮箱">
+                            </div>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="input-group">
+                        </div>
+                    </td>
+                    <td>
+                        <div class="input-group">
+                            <span class="input-group-btn">
+                                <button id="btn_search" type="button" class="btn  btn-primary" onclick="SearchHandler()"><i class="fa fa-search"></i>  查询</button>
+                            </span>
+                        </div>
+                    </td>
+
+                    <td>
+                        <div class="input-group">
+                            <span class="input-group-btn">
+                                <button id="btn_reload" type="button" class="btn btn-primary" onclick="$.reload()"><span class="glyphicon glyphicon-refresh"></span>刷新</button>
+                            </span>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <!--负责人手机号-->
+                    <td>
+                        <div class="input-group">
+                            <strong>负责人手机：</strong>
+                            <div class="input-box">
+                                <input id="Cellphone" name="Cellphone" type="text" class="form-control" placeholder="负责人手机号">
+                            </div>
+                        </div>
+                    </td>
+                   
+                    
+                </tr>
+            </table>
+        </form>
+    </div>
+    <div id="toolbar" style="padding:0px 10px;">
+        <table>
+            <tr>
+                <td>
+                    <a id="NF-edit" class="btn btn-default" authorize="yes" onclick="btn_edit()"><i class="fa fa-pencil-square-o"></i>修改用户组</a>
+                </td>
+                <td>
+                    <a id="NF-delete" class="btn btn-default" authorize="yes" onclick="btn_delete()"><i class="fa fa-trash-o"></i>删除用户组</a>
+                </td>
+                <td>
+                    <a id="NF-add" class="btn btn-default" authorize="yes" onclick="btn_add()"><i class="fa fa-search-plus"></i>新增用户组</a>
+                </td>
+            </tr>
+        </table>
+        <script>$('#toolbar').authorizeButton()</script>
+    </div>
+</div>
+<div class="gridPanel">
+    <table id="gridList"></table>
+    <div id="gridPager"></div>
+</div>

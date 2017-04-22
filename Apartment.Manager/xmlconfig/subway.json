@@ -1,0 +1,3938 @@
+﻿[
+    {
+      "id": 239,
+      "code": "1pPKPRdPCFo",
+      "pid": 0,
+      "name": "1号线",
+      "lat": "31.256077",
+      "lon": "121.46174",
+      "type": 0,
+      "parentId": 0,
+      "subList": [
+        {
+          "id": 1633,
+          "code": "COC4Wy70guo",
+          "pid": 239,
+          "name": "莘庄",
+          "lat": "31.116577",
+          "lon": "121.391616",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1634,
+          "code": "nrzVX7HvQEA",
+          "pid": 239,
+          "name": "外环路",
+          "lat": "31.126925",
+          "lon": "121.399809",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1635,
+          "code": "HjodzFHICxk",
+          "pid": 239,
+          "name": "莲花路",
+          "lat": "31.136732",
+          "lon": "121.409331",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1636,
+          "code": "ddHK5Ui-6v8",
+          "pid": 239,
+          "name": "锦江乐园",
+          "lat": "31.148306",
+          "lon": "121.420676",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1637,
+          "code": "xPfsJ5pm9-0",
+          "pid": 239,
+          "name": "上海南站",
+          "lat": "31.161154",
+          "lon": "121.436271",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1638,
+          "code": "AvpFSdZ7IWw",
+          "pid": 239,
+          "name": "漕宝路",
+          "lat": "31.174511",
+          "lon": "121.44149",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1639,
+          "code": "P0G5rb0sWj0",
+          "pid": 239,
+          "name": "上海体育馆",
+          "lat": "31.188351",
+          "lon": "121.442829",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1640,
+          "code": "1nXKr0fUFKQ",
+          "pid": 239,
+          "name": "徐家汇",
+          "lat": "31.19914 ",
+          "lon": "121.444742",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1641,
+          "code": "Dc1AobJie88",
+          "pid": 239,
+          "name": "衡山路",
+          "lat": "31.211332",
+          "lon": "121.453159",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1642,
+          "code": "QsOc5Np70wM",
+          "pid": 239,
+          "name": "常熟路",
+          "lat": "31.219926",
+          "lon": "121.457723",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1643,
+          "code": "IJpUiNlgN5g",
+          "pid": 239,
+          "name": "陕西南路",
+          "lat": "31.223492",
+          "lon": "121.46667",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1644,
+          "code": "4ZwKJF36xIA",
+          "pid": 239,
+          "name": "黄陂南路",
+          "lat": "31.22875 ",
+          "lon": "121.479794",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1645,
+          "code": "i0MEBetfhlE",
+          "pid": 239,
+          "name": "人民广场",
+          "lat": "31.238893",
+          "lon": "121.481689",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1646,
+          "code": "_P2HA-Cr21s",
+          "pid": 239,
+          "name": "新闸路",
+          "lat": "31.244697",
+          "lon": "121.474799",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1647,
+          "code": "lqcrZhi-wIM",
+          "pid": 239,
+          "name": "汉中路",
+          "lat": "31.2478  ",
+          "lon": "121.464999",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1648,
+          "code": "Fmj3tqpyaPA",
+          "pid": 239,
+          "name": "上海火车站",
+          "lat": "31.253604",
+          "lon": "121.462367",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1649,
+          "code": "EoC4MePw88k",
+          "pid": 239,
+          "name": "中山北路",
+          "lat": "31.265272",
+          "lon": "121.46561",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1650,
+          "code": "sV4f_VRTb1A",
+          "pid": 239,
+          "name": "延长路",
+          "lat": "31.278058",
+          "lon": "121.461891",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1651,
+          "code": "5RoUotJvg5c",
+          "pid": 239,
+          "name": "上海马戏城",
+          "lat": "31.285843",
+          "lon": "121.458495",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1652,
+          "code": "ldDxQL1lZmY",
+          "pid": 239,
+          "name": "汶水路",
+          "lat": "31.298811",
+          "lon": "121.456555",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1653,
+          "code": "GlisMOONFmU",
+          "pid": 239,
+          "name": "彭浦新村",
+          "lat": "31.312942",
+          "lon": "121.455091",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1654,
+          "code": "u--Ih1W8o4o",
+          "pid": 239,
+          "name": "共康路",
+          "lat": "31.325351",
+          "lon": "121.453456",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1655,
+          "code": "C2JqMZV1zMk",
+          "pid": 239,
+          "name": "通河新村",
+          "lat": "31.337797",
+          "lon": "121.447814",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1656,
+          "code": "ouFESRsvuvg",
+          "pid": 239,
+          "name": "呼兰路",
+          "lat": "31.345985",
+          "lon": "121.444176",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1657,
+          "code": "diCn3mhg_YI",
+          "pid": 239,
+          "name": "共富新村",
+          "lat": "31.36155 ",
+          "lon": "121.440457",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1658,
+          "code": "EJ7D7ECKQYs",
+          "pid": 239,
+          "name": "宝安公路",
+          "lat": "31.376203",
+          "lon": "121.437349",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1659,
+          "code": "EWj1ILS6_Mg",
+          "pid": 239,
+          "name": "友谊西路",
+          "lat": "31.387733",
+          "lon": "121.434331",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1660,
+          "code": "_7sAOgR9yU8",
+          "pid": 239,
+          "name": "富锦路",
+          "lat": "31.398676",
+          "lon": "121.431025",
+          "type": 0,
+          "branchId": 0
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "code": "nlk8jPe8BIo",
+      "pid": 0,
+      "name": "2号线",
+      "lat": "31.239653",
+      "lon": "121.483443",
+      "type": 0,
+      "parentId": 0,
+      "subList": [
+        {
+          "id": 4104,
+          "code": "JoMFiL1R7So",
+          "pid": 240,
+          "name": "徐泾东",
+          "lat": "31.195431",
+          "lon": "121.307524",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4105,
+          "code": "InRedrbrxII",
+          "pid": 240,
+          "name": "虹桥火车站",
+          "lat": "31.200316",
+          "lon": "121.327907",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4106,
+          "code": "udIePXtD0rM",
+          "pid": 240,
+          "name": "虹桥2号航站楼",
+          "lat": "31.20056",
+          "lon": "121.333274",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4107,
+          "code": "XBN_QsK6IK8",
+          "pid": 240,
+          "name": "淞虹路",
+          "lat": "31.223998",
+          "lon": "121.365797",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4108,
+          "code": "Q6CzshkH4eI",
+          "pid": 240,
+          "name": "北新泾",
+          "lat": "31.222104",
+          "lon": "121.38064",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4109,
+          "code": "tyjFQvIZuS8",
+          "pid": 240,
+          "name": "威宁路",
+          "lat": "31.220485",
+          "lon": "121.393671",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4110,
+          "code": "6dY2wqwaXQg",
+          "pid": 240,
+          "name": "娄山关路",
+          "lat": "31.216959",
+          "lon": "121.410818",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4111,
+          "code": "0SDwIFjdWPA",
+          "pid": 240,
+          "name": "中山公园",
+          "lat": "31.224618",
+          "lon": "121.42446",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4112,
+          "code": "6ray4PoB-4g",
+          "pid": 240,
+          "name": "江苏路",
+          "lat": "31.226172",
+          "lon": "121.438949",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4113,
+          "code": "UXcWAQ8JkO8",
+          "pid": 240,
+          "name": "静安寺",
+          "lat": "31.229553",
+          "lon": "121.452708",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4114,
+          "code": "W_m-qIPQS1g",
+          "pid": 240,
+          "name": "南京西路",
+          "lat": "31.236136",
+          "lon": "121.46678",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4115,
+          "code": "ATYE2o3Ejbc",
+          "pid": 240,
+          "name": "人民广场",
+          "lat": "31.238791",
+          "lon": "121.479272",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4116,
+          "code": "n4JcsLvX3xY",
+          "pid": 240,
+          "name": "南京东路",
+          "lat": "31.242911",
+          "lon": "121.490314",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4117,
+          "code": "-GaH_SJxlU8",
+          "pid": 240,
+          "name": "陆家嘴",
+          "lat": "31.243637",
+          "lon": "121.508824",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4118,
+          "code": "_TeQnrCGxbw",
+          "pid": 240,
+          "name": "东昌路",
+          "lat": "31.239079",
+          "lon": "121.521998",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4119,
+          "code": "eJLozUM-rjE",
+          "pid": 240,
+          "name": "世纪大道",
+          "lat": "31.23485",
+          "lon": "121.533435",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4120,
+          "code": "qwbUv5xFaVA",
+          "pid": 240,
+          "name": "上海科技馆",
+          "lat": "31.225524",
+          "lon": "121.550621",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4121,
+          "code": "JMCLv8aWWEg",
+          "pid": 240,
+          "name": "世纪公园",
+          "lat": "31.215933",
+          "lon": "121.557176",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4122,
+          "code": "4gLtC7RjQQI",
+          "pid": 240,
+          "name": "龙阳路",
+          "lat": "31.209429",
+          "lon": "121.563814",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4123,
+          "code": "sowrQkrsz_E",
+          "pid": 240,
+          "name": "张江高科",
+          "lat": "31.207879",
+          "lon": "121.594061",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4124,
+          "code": "QJrotly0i-g",
+          "pid": 240,
+          "name": "金科路",
+          "lat": "31.209932",
+          "lon": "121.608557",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4125,
+          "code": "UHdBp2nbbh8",
+          "pid": 240,
+          "name": "广兰路",
+          "lat": "31.216662",
+          "lon": "121.627183",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4126,
+          "code": "M9mQuHW3YPk",
+          "pid": 240,
+          "name": "唐镇",
+          "lat": "31.219828",
+          "lon": "121.662625",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4127,
+          "code": "azL3zFMjoVs",
+          "pid": 240,
+          "name": "创新中路",
+          "lat": "31.219751",
+          "lon": "121.680337",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4128,
+          "code": "eoDCS521Eh8",
+          "pid": 240,
+          "name": "华夏东路",
+          "lat": "31.203168",
+          "lon": "121.687295",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4129,
+          "code": "EU-hzyWdayI",
+          "pid": 240,
+          "name": "川沙",
+          "lat": "31.192886",
+          "lon": "121.704499",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4130,
+          "code": "8lSwchpuywI",
+          "pid": 240,
+          "name": "凌空路",
+          "lat": "31.198595",
+          "lon": "121.730308",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4131,
+          "code": "snY5AAyDLZs",
+          "pid": 240,
+          "name": "远东大道",
+          "lat": "31.205201",
+          "lon": "121.76216",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4132,
+          "code": "Un01xGrx-_s",
+          "pid": 240,
+          "name": "海天三路",
+          "lat": "31.174953",
+          "lon": "121.803224",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4133,
+          "code": "HhCYBmcCo0U",
+          "pid": 240,
+          "name": "浦东国际机场",
+          "lat": "31.155037",
+          "lon": "121.813388",
+          "type": 0,
+          "branchId": 0
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "code": "k95zJyWydCU",
+      "pid": 0,
+      "name": "3号线",
+      "lat": "31.299161",
+      "lon": "\r\n121.473203",
+      "type": 0,
+      "parentId": 0,
+      "subList": [
+        {
+          "id": 1661,
+          "code": "UQsPBoCqX8Q",
+          "pid": 241,
+          "name": "江杨北路",
+          "lat": "31.414217",
+          "lon": "121.446215",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1662,
+          "code": "i-ZNc4PBXb4",
+          "pid": 241,
+          "name": "铁力路",
+          "lat": "31.414255",
+          "lon": "121.467846",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1663,
+          "code": "4PXFLkDqKEU",
+          "pid": 241,
+          "name": "友谊路",
+          "lat": "31.409925",
+          "lon": "121.482534",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1664,
+          "code": "A2o-76pUks0",
+          "pid": 241,
+          "name": "宝杨路",
+          "lat": "31.40128",
+          "lon": "121.486118",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1665,
+          "code": "u5t9w-sKysg",
+          "pid": 241,
+          "name": "水产路",
+          "lat": "31.387094",
+          "lon": "121.494715",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1666,
+          "code": "9wZMEjQ0SUo",
+          "pid": 241,
+          "name": "淞滨路",
+          "lat": "31.376558",
+          "lon": "121.499386",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1667,
+          "code": "8agBBVmrK0s",
+          "pid": 241,
+          "name": "张华浜",
+          "lat": "31.363655",
+          "lon": "121.505405",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1668,
+          "code": "UIrk5FiInsY",
+          "pid": 241,
+          "name": "淞发路",
+          "lat": "31.350796",
+          "lon": "121.507138",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1669,
+          "code": "Hv98Exx94gc",
+          "pid": 241,
+          "name": "长江南路",
+          "lat": "31.337665",
+          "lon": "121.498182",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1670,
+          "code": "YENhuNtjSkk",
+          "pid": 241,
+          "name": "殷高西路",
+          "lat": "31.325551",
+          "lon": "121.491409",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1671,
+          "code": "7jJQbvWNvl8",
+          "pid": 241,
+          "name": "江湾镇",
+          "lat": "31.311152",
+          "lon": "121.491634",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1672,
+          "code": "D-82u25JZf0",
+          "pid": 241,
+          "name": "大柏树",
+          "lat": "31.295093",
+          "lon": "121.489612",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1673,
+          "code": "1V_GkWbWhXA",
+          "pid": 241,
+          "name": "赤峰路",
+          "lat": "31.287031",
+          "lon": "121.488984",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1674,
+          "code": "ArtKmCyzbSc",
+          "pid": 241,
+          "name": "虹口足球场",
+          "lat": "31.277479",
+          "lon": "121.485642",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1675,
+          "code": "5i7_lcEOn7o",
+          "pid": 241,
+          "name": "东宝兴路",
+          "lat": "31.265743",
+          "lon": "121.48663",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1676,
+          "code": "_8KpMEI3nlo",
+          "pid": 241,
+          "name": "宝山路",
+          "lat": "31.257463",
+          "lon": "121.483028",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1677,
+          "code": "cvtcXAFYLjI",
+          "pid": 241,
+          "name": "上海火车站",
+          "lat": "31.255919",
+          "lon": "121.464747",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1678,
+          "code": "hfXP8QLPcLE",
+          "pid": 241,
+          "name": "中潭路",
+          "lat": "31.26102",
+          "lon": "121.447446",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1679,
+          "code": "gE7h7FEnj98",
+          "pid": 241,
+          "name": "镇坪路",
+          "lat": "31.252817",
+          "lon": "121.436226",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1680,
+          "code": "K2LZeo9BgQg",
+          "pid": 241,
+          "name": "曹杨路",
+          "lat": "31.245562",
+          "lon": "121.424261",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1681,
+          "code": "HVdlDjK8P8o",
+          "pid": 241,
+          "name": "金沙江路",
+          "lat": "31.238368",
+          "lon": "121.41976",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1682,
+          "code": "QVJSHvb6BWM",
+          "pid": 241,
+          "name": "中山公园",
+          "lat": "31.223932",
+          "lon": "121.422231",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1683,
+          "code": "9r56HtHu6jk",
+          "pid": 241,
+          "name": "延安西路",
+          "lat": "31.215865",
+          "lon": "121.423578",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1684,
+          "code": "_Kb-n-zL1co",
+          "pid": 241,
+          "name": "虹桥路",
+          "lat": "31.203487",
+          "lon": "121.427306",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1685,
+          "code": "GNGVs0U3zPU",
+          "pid": 241,
+          "name": "宜山路",
+          "lat": "31.193024",
+          "lon": "121.433361",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1686,
+          "code": "eajpG-GmkKA",
+          "pid": 241,
+          "name": "漕溪路",
+          "lat": "31.182976",
+          "lon": "121.444733",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1687,
+          "code": "ETP14d9kaAw",
+          "pid": 241,
+          "name": "龙漕路",
+          "lat": "31.175723",
+          "lon": "121.450797",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1688,
+          "code": "xWojdf7aE0o",
+          "pid": 241,
+          "name": "石龙路",
+          "lat": "31.164299",
+          "lon": "121.449629",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1689,
+          "code": "_28qf6JgwEE",
+          "pid": 241,
+          "name": "上海南站",
+          "lat": "31.159648",
+          "lon": "121.437133",
+          "type": 0,
+          "branchId": 0
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "code": "VtWg-roY9Gg",
+      "pid": 0,
+      "name": "4号线",
+      "lat": "31.230266",
+      "lon": "121.476652",
+      "type": 0,
+      "parentId": 0,
+      "subList": [
+        {
+          "id": 1843,
+          "code": "Rd905Iqetl8",
+          "pid": 242,
+          "name": "宜山路",
+          "lat": "31.193062",
+          "lon": "121.433864",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1844,
+          "code": "MNw_wDZ1CXI",
+          "pid": 242,
+          "name": "虹桥路",
+          "lat": "31.203487",
+          "lon": "121.427306",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1845,
+          "code": "PWDxXb_DamI",
+          "pid": 242,
+          "name": "延安西路",
+          "lat": "31.215865",
+          "lon": "121.423578",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1846,
+          "code": "DHTZB3WUGZc",
+          "pid": 242,
+          "name": "中山公园",
+          "lat": "31.223932",
+          "lon": "121.422231",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1847,
+          "code": "-d7ZFKWOgBs",
+          "pid": 242,
+          "name": "金沙江路",
+          "lat": "31.238368",
+          "lon": "121.41976",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1848,
+          "code": "nV1_7Tw8hx8",
+          "pid": 242,
+          "name": "曹杨路",
+          "lat": "31.245562",
+          "lon": "121.424261",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1849,
+          "code": "6k25rb1b2Pk",
+          "pid": 242,
+          "name": "镇坪路",
+          "lat": "31.252817",
+          "lon": "121.436226",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1850,
+          "code": "t8DVaI4Zc8Q",
+          "pid": 242,
+          "name": "中潭路",
+          "lat": "31.26102",
+          "lon": "121.447446",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1851,
+          "code": "5tYmlDrKAX8",
+          "pid": 242,
+          "name": "上海火车站",
+          "lat": "31.255919",
+          "lon": "121.464747",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1852,
+          "code": "Hndqe-7R4-k",
+          "pid": 242,
+          "name": "宝山路",
+          "lat": "31.257463",
+          "lon": "121.483028",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1853,
+          "code": "v5ozB5vr9bQ",
+          "pid": 242,
+          "name": "海伦路",
+          "lat": "31.26413",
+          "lon": "121.496116",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1854,
+          "code": "tA6bkLe_WVY",
+          "pid": 242,
+          "name": "临平路",
+          "lat": "31.266576",
+          "lon": "121.507596",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1855,
+          "code": "06lxFworI1c",
+          "pid": 242,
+          "name": "大连路",
+          "lat": "31.263721",
+          "lon": "121.519571",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1856,
+          "code": "xjR3DDIxHMQ",
+          "pid": 242,
+          "name": "杨树浦路",
+          "lat": "31.257679",
+          "lon": "121.523937",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1857,
+          "code": "bSw3g_KR-SA",
+          "pid": 242,
+          "name": "浦东大道",
+          "lat": "31.245793",
+          "lon": "121.526012",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1858,
+          "code": "wI2S4iZxG0w",
+          "pid": 242,
+          "name": "世纪大道",
+          "lat": "31.234848",
+          "lon": "121.533432",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1859,
+          "code": "MnH4bUGanyw",
+          "pid": 242,
+          "name": "浦电路",
+          "lat": "31.229004",
+          "lon": "121.538507",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1860,
+          "code": "jN9CPqCTSNY",
+          "pid": 242,
+          "name": "蓝村路",
+          "lat": "31.217609",
+          "lon": "121.534492",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1861,
+          "code": "wTHsZ8PbBGg",
+          "pid": 242,
+          "name": "塘桥",
+          "lat": "31.215401",
+          "lon": "121.525347",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1862,
+          "code": "QUsYlEpARgM",
+          "pid": 242,
+          "name": "南浦大桥",
+          "lat": "31.214282",
+          "lon": "121.50633",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1863,
+          "code": "GdTfCDDD7GY",
+          "pid": 242,
+          "name": "西藏南路",
+          "lat": "31.207665",
+          "lon": "121.496116",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1864,
+          "code": "EefX1Y3ILbE",
+          "pid": 242,
+          "name": "鲁班路",
+          "lat": "31.204939",
+          "lon": "121.48098",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1865,
+          "code": "BcU-5NjFjcE",
+          "pid": 242,
+          "name": "大木桥路",
+          "lat": "31.200329",
+          "lon": "121.470146",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1866,
+          "code": "0EqENlHdVcQ",
+          "pid": 242,
+          "name": "东安路",
+          "lat": "31.197039",
+          "lon": "121.461361",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1867,
+          "code": "-EkBNEoQmrk",
+          "pid": 242,
+          "name": "上海体育场",
+          "lat": "31.192174",
+          "lon": "121.45024",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1868,
+          "code": "mAgJzrRt3ao",
+          "pid": 242,
+          "name": "上海体育馆",
+          "lat": "31.18927",
+          "lon": "121.44397",
+          "type": 0,
+          "branchId": 0
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "code": "eTEM68wC9hw",
+      "pid": 0,
+      "name": "5号线",
+      "lat": "31.074757",
+      "lon": "121.390127",
+      "type": 0,
+      "parentId": 0,
+      "subList": [
+        {
+          "id": 1690,
+          "code": "z0KBHvIA7a4",
+          "pid": 243,
+          "name": "莘庄",
+          "lat": "31.116577",
+          "lon": "121.391616",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1691,
+          "code": "_qkBGZanfMk",
+          "pid": 243,
+          "name": "春申路",
+          "lat": "31.103954",
+          "lon": "121.392326",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1692,
+          "code": "A0KyPvcS82g",
+          "pid": 243,
+          "name": "银都路",
+          "lat": "31.09508",
+          "lon": "121.396871",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1693,
+          "code": "d2aYDZTylHI",
+          "pid": 243,
+          "name": "颛桥",
+          "lat": "31.072836",
+          "lon": "121.408433",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1694,
+          "code": "eRSUAxOE-R8",
+          "pid": 243,
+          "name": "北桥",
+          "lat": "31.051128",
+          "lon": "121.416481",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1695,
+          "code": "TvidS-PxHek",
+          "pid": 243,
+          "name": "剑川路",
+          "lat": "31.032564",
+          "lon": "121.422967",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1696,
+          "code": "gs_6I4FQN5E",
+          "pid": 243,
+          "name": "东川路",
+          "lat": "31.024464",
+          "lon": "121.426318",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1697,
+          "code": "bopTmwFfo0s",
+          "pid": 243,
+          "name": "金平路",
+          "lat": "31.017137",
+          "lon": "121.416553",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1698,
+          "code": "x-Ahu0fqHPY",
+          "pid": 243,
+          "name": "华宁路",
+          "lat": "31.01306",
+          "lon": "121.401632",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1699,
+          "code": "LseDuFaZVH8",
+          "pid": 243,
+          "name": "文井路",
+          "lat": "31.009191",
+          "lon": "121.387313",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1984,
+          "code": "LnSkPTDt_A0",
+          "pid": 243,
+          "name": "闵行开发区",
+          "lat": "31.006313",
+          "lon": "121.376489",
+          "type": 0,
+          "branchId": 0
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "code": "W3NwNi00hcY",
+      "pid": 0,
+      "name": "6号线",
+      "lat": "31.260893",
+      "lon": "121.552541",
+      "type": 0,
+      "parentId": 0,
+      "subList": [
+        {
+          "id": 1869,
+          "code": "2x3cWcfF7lE",
+          "pid": 244,
+          "name": "港城路",
+          "lat": "31.359292",
+          "lon": "121.581141",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1870,
+          "code": "TZK9oXUGhik",
+          "pid": 244,
+          "name": "外高桥保税区北",
+          "lat": "31.35388",
+          "lon": "121.593439",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1871,
+          "code": "_HJZuVkV-KU",
+          "pid": 244,
+          "name": "航津路",
+          "lat": "31.341297",
+          "lon": "121.600535",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1872,
+          "code": "sPQ2soFuzNw",
+          "pid": 244,
+          "name": "外高桥保税区南",
+          "lat": "31.327225",
+          "lon": "121.608656",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1873,
+          "code": "GDvTzFoy2c8",
+          "pid": 244,
+          "name": "洲海路",
+          "lat": "31.318348",
+          "lon": "121.595918",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1874,
+          "code": "Y03jepGlnVE",
+          "pid": 244,
+          "name": "五洲大道",
+          "lat": "31.308622",
+          "lon": "121.595837",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1875,
+          "code": "GcpAE13Sv8I",
+          "pid": 244,
+          "name": "东靖路",
+          "lat": "31.296797",
+          "lon": "121.595325",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1876,
+          "code": "GezJBnKvP8o",
+          "pid": 244,
+          "name": "巨峰路",
+          "lat": "31.286699",
+          "lon": "121.594975",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1877,
+          "code": "BFgjoDTF61M",
+          "pid": 244,
+          "name": "五莲路",
+          "lat": "31.278004",
+          "lon": "121.594534",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1878,
+          "code": "Hzq8cyOcySM",
+          "pid": 244,
+          "name": "博兴路",
+          "lat": "31.270056",
+          "lon": "121.593412",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1879,
+          "code": "LqC-tgUeTdc",
+          "pid": 244,
+          "name": "金桥路",
+          "lat": "31.263289",
+          "lon": "121.588372",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1880,
+          "code": "KkLdclOvAXQ",
+          "pid": 244,
+          "name": "云山路",
+          "lat": "31.256652",
+          "lon": "121.579308",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1881,
+          "code": "p2hPWJsVamk",
+          "pid": 244,
+          "name": "德平路",
+          "lat": "31.251659",
+          "lon": "121.570568",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1882,
+          "code": "zdGumEGvtf4",
+          "pid": 244,
+          "name": "北洋泾路",
+          "lat": "31.245585",
+          "lon": "121.559222",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1883,
+          "code": "Qmrj4P6JWYo",
+          "pid": 244,
+          "name": "民生路",
+          "lat": "31.242112",
+          "lon": "121.549925",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1884,
+          "code": "yeIfBVooFSk",
+          "pid": 244,
+          "name": "源深体育中心",
+          "lat": "31.239039",
+          "lon": "121.540888",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1885,
+          "code": "YYO0jXdB4qQ",
+          "pid": 244,
+          "name": "世纪大道",
+          "lat": "31.234848",
+          "lon": "121.533432",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1886,
+          "code": "iHnTXzOeVbk",
+          "pid": 244,
+          "name": "浦电路",
+          "lat": "31.226048",
+          "lon": "121.535453",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1887,
+          "code": "UFay7cA1A5E",
+          "pid": 244,
+          "name": "蓝村路",
+          "lat": "31.21764",
+          "lon": "121.534258",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1888,
+          "code": "QLXu5iMS4SY",
+          "pid": 244,
+          "name": "上海儿童医学中心",
+          "lat": "31.209394",
+          "lon": "121.529785",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1889,
+          "code": "gzrp_aCT1fY",
+          "pid": 244,
+          "name": "临沂新村",
+          "lat": "31.198947",
+          "lon": "121.523074",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1890,
+          "code": "PRDE_U-fkb8",
+          "pid": 244,
+          "name": "高科西路",
+          "lat": "31.191278",
+          "lon": "121.516391",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1891,
+          "code": "BvOY5g_cPB8",
+          "pid": 244,
+          "name": "东明路",
+          "lat": "31.178249",
+          "lon": "121.517487",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1892,
+          "code": "nmMbYRz15yU",
+          "pid": 244,
+          "name": "高青路",
+          "lat": "31.165241",
+          "lon": "121.522266",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1893,
+          "code": "ULBFSr4YuhI",
+          "pid": 244,
+          "name": "华夏西路",
+          "lat": "31.155569",
+          "lon": "121.521143",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1894,
+          "code": "WR5GRWq-R3Q",
+          "pid": 244,
+          "name": "上南路",
+          "lat": "31.154781",
+          "lon": "121.51295",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1895,
+          "code": "YP6X8JHMAV4",
+          "pid": 244,
+          "name": "灵岩南路",
+          "lat": "31.154364",
+          "lon": "121.501677",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1896,
+          "code": "dugiC5QH9ic",
+          "pid": 244,
+          "name": "东方体育中心",
+          "lat": "31.159347",
+          "lon": "121.487007",
+          "type": 0,
+          "branchId": 0
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "code": "npKhDFuh328",
+      "pid": 0,
+      "name": "7号线",
+      "lat": "31.282251",
+      "lon": "121.450565",
+      "type": 0,
+      "parentId": 0,
+      "subList": [
+        {
+          "id": 1700,
+          "code": "sDU-AHQROUg",
+          "pid": 245,
+          "name": "花木路",
+          "lat": "31.217563",
+          "lon": "121.56922",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1701,
+          "code": "JTpEJGpIXx4",
+          "pid": 245,
+          "name": "龙阳路",
+          "lat": "31.209935",
+          "lon": "121.564028",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1702,
+          "code": "cfXZlT4n59M",
+          "pid": 245,
+          "name": "芳华路",
+          "lat": "31.199526",
+          "lon": "121.556473",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1703,
+          "code": "AEbiI8S_3iQ",
+          "pid": 245,
+          "name": "锦绣路",
+          "lat": "31.193765",
+          "lon": "121.546394",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1704,
+          "code": "H-UoEWw2yXM",
+          "pid": 245,
+          "name": "杨高南路",
+          "lat": "31.193448",
+          "lon": "121.531644",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1705,
+          "code": "FmKCp8jdfug",
+          "pid": 245,
+          "name": "高科西路",
+          "lat": "31.191278",
+          "lon": "121.516391",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1706,
+          "code": "sA1tdLCg5F4",
+          "pid": 245,
+          "name": "云台路",
+          "lat": "31.187757",
+          "lon": "121.507264",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1707,
+          "code": "t2pERGlkiuo",
+          "pid": 245,
+          "name": "耀华路",
+          "lat": "31.18408",
+          "lon": "121.50112",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1708,
+          "code": "TW6lGKvyKb8",
+          "pid": 245,
+          "name": "长清路",
+          "lat": "31.180327",
+          "lon": "121.49264",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1709,
+          "code": "DEWc8YPiu7E",
+          "pid": 245,
+          "name": "后滩",
+          "lat": "31.177878",
+          "lon": "121.480027",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1710,
+          "code": "HjV9Shp-yIE",
+          "pid": 245,
+          "name": "龙华中路",
+          "lat": "31.191309",
+          "lon": "121.463373",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1711,
+          "code": "EnobxcHh_4s",
+          "pid": 245,
+          "name": "东安路",
+          "lat": "31.197564",
+          "lon": "121.46093",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1712,
+          "code": "GuVkCRKnaXs",
+          "pid": 245,
+          "name": "肇嘉浜路",
+          "lat": "31.205016",
+          "lon": "121.456681",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1713,
+          "code": "VCYkd2EkjzE",
+          "pid": 245,
+          "name": "常熟路",
+          "lat": "31.219995",
+          "lon": "121.455522",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1714,
+          "code": "oXsSQTba0eM",
+          "pid": 245,
+          "name": "静安寺",
+          "lat": "31.229251",
+          "lon": "121.455091",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1715,
+          "code": "PKbKYDbCrPY",
+          "pid": 245,
+          "name": "昌平路",
+          "lat": "31.240475",
+          "lon": "121.44874",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1716,
+          "code": "SvTaRLDrNJY",
+          "pid": 245,
+          "name": "长寿路",
+          "lat": "31.246249",
+          "lon": "121.444733",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1717,
+          "code": "DL5fSHnY3fs",
+          "pid": 245,
+          "name": "镇坪路",
+          "lat": "31.253357",
+          "lon": "121.437942",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1718,
+          "code": "eAe-1b0UMtQ",
+          "pid": 245,
+          "name": "岚皋路",
+          "lat": "31.262579",
+          "lon": "121.428339",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1719,
+          "code": "X_TTjsAqg6Y",
+          "pid": 245,
+          "name": "新村路",
+          "lat": "31.270149",
+          "lon": "121.429031",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1720,
+          "code": "6cUNRC_SY7E",
+          "pid": 245,
+          "name": "大华三路",
+          "lat": "31.28018",
+          "lon": "121.42948",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1721,
+          "code": "TSRGjlPN3ug",
+          "pid": 245,
+          "name": "行知路",
+          "lat": "31.29122",
+          "lon": "121.428052",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1722,
+          "code": "sp8rldEcj4w",
+          "pid": 245,
+          "name": "大场镇",
+          "lat": "31.299706",
+          "lon": "121.42294",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1723,
+          "code": "QRjDJeT76NE",
+          "pid": 245,
+          "name": "场中路",
+          "lat": "31.309957",
+          "lon": "121.420155",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1724,
+          "code": "WL5F3nhjWD0",
+          "pid": 245,
+          "name": "上大路",
+          "lat": "31.321456",
+          "lon": "121.414775",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1725,
+          "code": "Qf_5No3C0r8",
+          "pid": 245,
+          "name": "南陈路",
+          "lat": "31.327217",
+          "lon": "121.405217",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1726,
+          "code": "Knw9r6kntCc",
+          "pid": 245,
+          "name": "上海大学",
+          "lat": "31.326253",
+          "lon": "121.39529",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1727,
+          "code": "xmPgwSPFWqg",
+          "pid": 245,
+          "name": "祁华路",
+          "lat": "31.328104",
+          "lon": "121.380154",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1728,
+          "code": "3CGaJ_oABM8",
+          "pid": 245,
+          "name": "顾村公园",
+          "lat": "31.350572",
+          "lon": "121.379309",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1729,
+          "code": "l0WRzWAy2d0",
+          "pid": 245,
+          "name": "刘行",
+          "lat": "31.363423",
+          "lon": "121.36888",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1730,
+          "code": "iok8SdFDvpI",
+          "pid": 245,
+          "name": "潘广路",
+          "lat": "31.370191",
+          "lon": "121.362287",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1731,
+          "code": "bo0fezg7Xqc",
+          "pid": 245,
+          "name": "罗南新村",
+          "lat": "31.394376",
+          "lon": "121.364182",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1985,
+          "code": "NW1oULNGp_A",
+          "pid": 245,
+          "name": "美兰湖",
+          "lat": "31.407853",
+          "lon": "121.356421",
+          "type": 0,
+          "branchId": 0
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "code": "PqK7cz4cDzI",
+      "pid": 0,
+      "name": "8号线",
+      "lat": "31.196417",
+      "lon": "121.503314",
+      "type": 0,
+      "parentId": 0,
+      "subList": [
+        {
+          "id": 1897,
+          "code": "kxCe1Kn3dnI",
+          "pid": 246,
+          "name": "市光路",
+          "lat": "31.328512",
+          "lon": "121.538525",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1898,
+          "code": "mnK9aJsxBJQ",
+          "pid": 246,
+          "name": "嫩江路",
+          "lat": "31.320916",
+          "lon": "121.538552",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1899,
+          "code": "N8tj27b58po",
+          "pid": 246,
+          "name": "翔殷路",
+          "lat": "31.311021",
+          "lon": "121.538471",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1900,
+          "code": "fgduVfVL7t0",
+          "pid": 246,
+          "name": "黄兴公园",
+          "lat": "31.301927",
+          "lon": "121.539675",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1901,
+          "code": "5RHeVqirf_0",
+          "pid": 246,
+          "name": "延吉中路",
+          "lat": "31.294722",
+          "lon": "121.5414",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1902,
+          "code": "GJjbPhJCIdg",
+          "pid": 246,
+          "name": "黄兴路",
+          "lat": "31.28457",
+          "lon": "121.534438",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1903,
+          "code": "rYA3X6OvdN8",
+          "pid": 246,
+          "name": "江浦路",
+          "lat": "31.280812",
+          "lon": "121.524799",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1904,
+          "code": "CmmpsiI58Zs",
+          "pid": 246,
+          "name": "鞍山新村",
+          "lat": "31.278922",
+          "lon": "121.516059",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1905,
+          "code": "1JcfHfnXU_g",
+          "pid": 246,
+          "name": "四平路",
+          "lat": "31.280566",
+          "lon": "121.507821",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1906,
+          "code": "b3EbfO2rJw8",
+          "pid": 246,
+          "name": "曲阳路",
+          "lat": "31.282116",
+          "lon": "121.497032",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1907,
+          "code": "VAxmkV4TFa0",
+          "pid": 246,
+          "name": "虹口足球场",
+          "lat": "31.275774",
+          "lon": "121.485956",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1908,
+          "code": "_bo2YyW_Ujk",
+          "pid": 246,
+          "name": "西藏北路",
+          "lat": "31.269393",
+          "lon": "121.475249",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1909,
+          "code": "YqHtZXwOT_4",
+          "pid": 246,
+          "name": "中兴路",
+          "lat": "31.259029",
+          "lon": "121.47541",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1910,
+          "code": "MECWlMlJCgw",
+          "pid": 246,
+          "name": "曲阜路",
+          "lat": "31.248302",
+          "lon": "121.478006",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1911,
+          "code": "FSrqy1BdKJc",
+          "pid": 246,
+          "name": "人民广场",
+          "lat": "31.238708",
+          "lon": "121.482121",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1912,
+          "code": "rZRZbQ_no84",
+          "pid": 246,
+          "name": "大世界",
+          "lat": "31.233119",
+          "lon": "121.485875",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1913,
+          "code": "IbJSrqYJAzo",
+          "pid": 246,
+          "name": "老西门",
+          "lat": "31.224674",
+          "lon": "121.489478",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1914,
+          "code": "fqlDwTUyya4",
+          "pid": 246,
+          "name": "陆家浜路",
+          "lat": "31.217409",
+          "lon": "121.492712",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1915,
+          "code": "B_JnguH_Q-c",
+          "pid": 246,
+          "name": "西藏南路",
+          "lat": "31.207665",
+          "lon": "121.496116",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1916,
+          "code": "46_7wz5myU8",
+          "pid": 246,
+          "name": "中华艺术宫",
+          "lat": "31.191332",
+          "lon": "121.500742",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1917,
+          "code": "Xui-Pkv03jY",
+          "pid": 246,
+          "name": "耀华路",
+          "lat": "31.18408",
+          "lon": "121.50112",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1918,
+          "code": "ObSFfokPG30",
+          "pid": 246,
+          "name": "成山路",
+          "lat": "31.176472",
+          "lon": "121.502728",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1919,
+          "code": "2XubBJ74BtA",
+          "pid": 246,
+          "name": "杨思",
+          "lat": "31.166709",
+          "lon": "121.500284",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1920,
+          "code": "CkDbLcuS1zQ",
+          "pid": 246,
+          "name": "东方体育中心",
+          "lat": "31.159347",
+          "lon": "121.487007",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1921,
+          "code": "w7A-lHyjabw",
+          "pid": 246,
+          "name": "凌兆新村",
+          "lat": "31.146692",
+          "lon": "121.496278",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1922,
+          "code": "s9yFlkehTHY",
+          "pid": 246,
+          "name": "芦恒路",
+          "lat": "31.1249",
+          "lon": "121.504372",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1923,
+          "code": "QGRYU2PSwe0",
+          "pid": 246,
+          "name": "浦江镇",
+          "lat": "31.102192",
+          "lon": "121.512888",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1924,
+          "code": "Q2dNmSTqP10",
+          "pid": 246,
+          "name": "江月路",
+          "lat": "31.089985",
+          "lon": "121.515124",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1925,
+          "code": "pZxEw0RuPaM",
+          "pid": 246,
+          "name": "联航路",
+          "lat": "31.079648",
+          "lon": "121.517128",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1986,
+          "code": "pUkqN09-25Q",
+          "pid": 246,
+          "name": "沈杜公路",
+          "lat": "31.067052",
+          "lon": "121.518798",
+          "type": 0,
+          "branchId": 0
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "code": "7H2HMsdOPH4",
+      "pid": 0,
+      "name": "9号线",
+      "lat": "31.119347",
+      "lon": "121.366843",
+      "type": 0,
+      "parentId": 0,
+      "subList": [
+        {
+          "id": 1732,
+          "code": "dn1G33dfOjI",
+          "pid": 247,
+          "name": "杨高中路",
+          "lat": "31.23379",
+          "lon": "121.555018",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1733,
+          "code": "rKkj2hNhOLk",
+          "pid": 247,
+          "name": "世纪大道",
+          "lat": "31.234848",
+          "lon": "121.533432",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1734,
+          "code": "Sl8_a9KFa6Q",
+          "pid": 247,
+          "name": "商城路",
+          "lat": "31.236122",
+          "lon": "121.522886",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1735,
+          "code": "823UzzkflvI",
+          "pid": 247,
+          "name": "小南门",
+          "lat": "31.222651",
+          "lon": "121.504893",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1736,
+          "code": "coVUM4hM9Kw",
+          "pid": 247,
+          "name": "陆家浜路",
+          "lat": "31.217409",
+          "lon": "121.492712",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1737,
+          "code": "2gl9JugV9iA",
+          "pid": 247,
+          "name": "马当路",
+          "lat": "31.215193",
+          "lon": "121.483693",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1738,
+          "code": "VQw3bpf2-k4",
+          "pid": 247,
+          "name": "打浦桥",
+          "lat": "31.212066",
+          "lon": "121.475392",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1739,
+          "code": "-LxoSg4aqLk",
+          "pid": 247,
+          "name": "嘉善路",
+          "lat": "31.208939",
+          "lon": "121.467218",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1740,
+          "code": "V522gzu5M1E",
+          "pid": 247,
+          "name": "肇嘉浜路",
+          "lat": "31.205757",
+          "lon": "121.456231",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1741,
+          "code": "5_BaK2Oones",
+          "pid": 247,
+          "name": "徐家汇",
+          "lat": "31.201927",
+          "lon": "121.443314",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1742,
+          "code": "PXTC5KSRwCU",
+          "pid": 247,
+          "name": "宜山路",
+          "lat": "31.191178",
+          "lon": "121.434088",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1743,
+          "code": "_jeFv5ww9k8",
+          "pid": 247,
+          "name": "桂林路",
+          "lat": "31.180999",
+          "lon": "121.424979",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1744,
+          "code": "ntIx62zIjnM",
+          "pid": 247,
+          "name": "漕河泾开发区",
+          "lat": "31.176218",
+          "lon": "121.404157",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1745,
+          "code": "oZ4M5yHTljU",
+          "pid": 247,
+          "name": "合川路",
+          "lat": "31.172224",
+          "lon": "121.391167",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1746,
+          "code": "o_2zf07I4vk",
+          "pid": 247,
+          "name": "星中路",
+          "lat": "31.163858",
+          "lon": "121.375564",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1747,
+          "code": "EZUupDwVp4M",
+          "pid": 247,
+          "name": "七宝",
+          "lat": "31.161386",
+          "lon": "121.356043",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1748,
+          "code": "K4oKTm8X-8Q",
+          "pid": 247,
+          "name": "中春路",
+          "lat": "31.155947",
+          "lon": "121.344734",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1749,
+          "code": "AQrWgltVEE8",
+          "pid": 247,
+          "name": "九亭",
+          "lat": "31.143841",
+          "lon": "121.325375",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1750,
+          "code": "6fv4AZToYrs",
+          "pid": 247,
+          "name": "泗泾",
+          "lat": "31.123973",
+          "lon": "121.267255",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1751,
+          "code": "MtAhWjTbXOs",
+          "pid": 247,
+          "name": "佘山",
+          "lat": "31.110602",
+          "lon": "121.236254",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1752,
+          "code": "_BN3jt8MiUM",
+          "pid": 247,
+          "name": "洞泾",
+          "lat": "31.090387",
+          "lon": "121.237009",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1753,
+          "code": "R24ofxGzIPA",
+          "pid": 247,
+          "name": "松江大学城",
+          "lat": "31.060038",
+          "lon": "121.239201",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1754,
+          "code": "qo6FfKVo3nU",
+          "pid": 247,
+          "name": "松江新城",
+          "lat": "31.036207",
+          "lon": "121.237251",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1755,
+          "code": "4ibZcOfx9Yk",
+          "pid": 247,
+          "name": "松江体育中心",
+          "lat": "31.022043",
+          "lon": "121.237117",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1756,
+          "code": "ogY2AHqMGkM",
+          "pid": 247,
+          "name": "醉白池",
+          "lat": "31.006986",
+          "lon": "121.235823",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1757,
+          "code": "9pxW-aAJr8Y",
+          "pid": 247,
+          "name": "松江南站",
+          "lat": "30.990951",
+          "lon": "121.237674",
+          "type": 0,
+          "branchId": 0
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "code": "ZjgcFRz6WgY",
+      "pid": 0,
+      "name": "10号线",
+      "lat": "31.234003",
+      "lon": "121.493905",
+      "type": 0,
+      "parentId": 0,
+      "subList": [
+        {
+          "id": 1926,
+          "code": "gdRaI0YP4C0",
+          "pid": 248,
+          "name": "虹桥火车站",
+          "lat": "31.200314",
+          "lon": "121.327899",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1927,
+          "code": "L6HxUb0m1e8",
+          "pid": 248,
+          "name": "虹桥2号航站楼",
+          "lat": "31.200553",
+          "lon": "121.333271",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1928,
+          "code": "085JQCVty4U",
+          "pid": 248,
+          "name": "虹桥1号航站楼",
+          "lat": "31.197472",
+          "lon": "121.353896",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1929,
+          "code": "oQey81qNT-I",
+          "pid": 248,
+          "name": "上海动物园",
+          "lat": "31.196043",
+          "lon": "121.373596",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1930,
+          "code": "LEZtBwjKW1c",
+          "pid": 248,
+          "name": "龙溪路",
+          "lat": "31.199873",
+          "lon": "121.38646",
+          "type": 0,
+          "branchId": 2916
+        },
+        {
+          "id": 1931,
+          "code": "Z4hFSM-Rgt4",
+          "pid": 248,
+          "name": "水城路",
+          "lat": "31.20507",
+          "lon": "121.398443",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1932,
+          "code": "dE6FK0aUwNM",
+          "pid": 248,
+          "name": "伊犁路",
+          "lat": "31.20463",
+          "lon": "121.410669",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1933,
+          "code": "x9NUwwx2QDk",
+          "pid": 248,
+          "name": "宋园路",
+          "lat": "31.202692",
+          "lon": "121.418431",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1934,
+          "code": "Sdmvu9QLYZc",
+          "pid": 248,
+          "name": "虹桥路",
+          "lat": "31.202846",
+          "lon": "121.428752",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1935,
+          "code": "12ZQpAIDJyU",
+          "pid": 248,
+          "name": "交通大学",
+          "lat": "31.208197",
+          "lon": "121.440556",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1936,
+          "code": "Dwb8QLcAqYk",
+          "pid": 248,
+          "name": "上海图书馆",
+          "lat": "31.214436",
+          "lon": "121.45077",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1937,
+          "code": "jAcYRjzrvdY",
+          "pid": 248,
+          "name": "陕西南路",
+          "lat": "31.220983",
+          "lon": "121.464478",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1938,
+          "code": "JVFpvltfLoo",
+          "pid": 248,
+          "name": "新天地",
+          "lat": "31.222242",
+          "lon": "121.481806",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1939,
+          "code": "4xrSIpMK4ZM",
+          "pid": 248,
+          "name": "老西门",
+          "lat": "31.224674",
+          "lon": "121.489478",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1940,
+          "code": "mk-kVKqu9rI",
+          "pid": 248,
+          "name": "豫园",
+          "lat": "31.233999",
+          "lon": "121.493897",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1941,
+          "code": "ISt0MSI9Ha8",
+          "pid": 248,
+          "name": "南京东路",
+          "lat": "31.244149",
+          "lon": "121.491122",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1942,
+          "code": "AQXy8t8XBRI",
+          "pid": 248,
+          "name": "天潼路",
+          "lat": "31.250293",
+          "lon": "121.488732",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1943,
+          "code": "caX8A5zlnOc",
+          "pid": 248,
+          "name": "四川北路",
+          "lat": "31.257725",
+          "lon": "121.490771",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1944,
+          "code": "uU_DSRYUdus",
+          "pid": 248,
+          "name": "海伦路",
+          "lat": "31.264902",
+          "lon": "121.495101",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1945,
+          "code": "qa6gSd93gpg",
+          "pid": 248,
+          "name": "邮电新村",
+          "lat": "31.274185",
+          "lon": "121.50085",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1946,
+          "code": "etOAm8s0Dmo",
+          "pid": 248,
+          "name": "四平路",
+          "lat": "31.280882",
+          "lon": "121.508342",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1947,
+          "code": "E1BwKzXwVPc",
+          "pid": 248,
+          "name": "同济大学",
+          "lat": "31.288211",
+          "lon": "121.513049",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1948,
+          "code": "qSnHFr4eLkU",
+          "pid": 248,
+          "name": "国权路",
+          "lat": "31.295347",
+          "lon": "121.516741",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1949,
+          "code": "ahvhzcGx64k",
+          "pid": 248,
+          "name": "五角场",
+          "lat": "31.303802",
+          "lon": "121.521188",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1950,
+          "code": "Dpm5H3dE2cc",
+          "pid": 248,
+          "name": "江湾体育场",
+          "lat": "31.308738",
+          "lon": "121.520631",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1951,
+          "code": "Rtv-y5U9Xxo",
+          "pid": 248,
+          "name": "三门路",
+          "lat": "31.31861",
+          "lon": "121.514693",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1952,
+          "code": "CHM7aPnUer0",
+          "pid": 248,
+          "name": "殷高东路",
+          "lat": "31.327741",
+          "lon": "121.513175",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 1953,
+          "code": "TnIFotlK0e8",
+          "pid": 248,
+          "name": "新江湾城",
+          "lat": "31.33445",
+          "lon": "121.513184",
+          "type": 0,
+          "branchId": 0
+        }
+      ],
+      "branchList": [
+        {
+          "id": 249,
+          "code": "VN9a_UF-qDo",
+          "pid": 0,
+          "name": "10号线分叉线",
+          "lat": "31.234003",
+          "lon": "121.493905",
+          "type": 0,
+          "parentId": 248,
+          "subList": [
+            {
+              "id": 2917,
+              "code": "labQ8Iz9yC0",
+              "pid": 249,
+              "name": "龙柏新村",
+              "lat": "31.182886",
+              "lon": "121.37699",
+              "type": 0,
+              "branchId": 0
+            },
+            {
+              "id": 2918,
+              "code": "7Miy--UnHhU",
+              "pid": 249,
+              "name": "紫藤路",
+              "lat": "31.175533",
+              "lon": "121.37097",
+              "type": 0,
+              "branchId": 0
+            },
+            {
+              "id": 2919,
+              "code": "osxI9fywRlw",
+              "pid": 249,
+              "name": "航中路",
+              "lat": "31.171619",
+              "lon": "121.361249",
+              "type": 0,
+              "branchId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "code": "vbZuErx-b1Q",
+      "pid": 0,
+      "name": "11号线",
+      "lat": "31.307718",
+      "lon": "121.318353",
+      "type": 0,
+      "parentId": 0,
+      "subList": [
+        {
+          "id": 2938,
+          "code": "Ezg105DOGAI",
+          "pid": 250,
+          "name": "嘉定北",
+          "lat": "31.397409",
+          "lon": "121.24401",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2939,
+          "code": "Le0us7G68xE",
+          "pid": 250,
+          "name": "嘉定西",
+          "lat": "31.383236",
+          "lon": "121.234404",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2940,
+          "code": "1DuIdVv1O6U",
+          "pid": 250,
+          "name": "白银路",
+          "lat": "31.351371",
+          "lon": "121.251801",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2941,
+          "code": "mx6cDnkxbuo",
+          "pid": 250,
+          "name": "嘉定新城",
+          "lat": "31.335744",
+          "lon": "121.26104",
+          "type": 0,
+          "branchId": 2966
+        },
+        {
+          "id": 2942,
+          "code": "mHvA-aPoEmg",
+          "pid": 250,
+          "name": "马陆",
+          "lat": "31.325402",
+          "lon": "121.28343",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2943,
+          "code": "gI7o9jbajwA",
+          "pid": 250,
+          "name": "南翔",
+          "lat": "31.303357",
+          "lon": "121.329748",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2944,
+          "code": "BDHb6xOlY4k",
+          "pid": 250,
+          "name": "桃浦新村",
+          "lat": "31.287647",
+          "lon": "121.355937",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2945,
+          "code": "VlvTGROvEpo",
+          "pid": 250,
+          "name": "武威路",
+          "lat": "31.282825",
+          "lon": "121.371318",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2946,
+          "code": "esV8zj6CmV8",
+          "pid": 250,
+          "name": "祁连山路",
+          "lat": "31.277205",
+          "lon": "121.382499",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2947,
+          "code": "EONZ_VblfCI",
+          "pid": 250,
+          "name": "李子园",
+          "lat": "31.274628",
+          "lon": "121.396533",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2948,
+          "code": "m0MtRHyt8S8",
+          "pid": 250,
+          "name": "上海西站",
+          "lat": "31.268542",
+          "lon": "121.40794",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2949,
+          "code": "U9NZt8QDov0",
+          "pid": 250,
+          "name": "真如",
+          "lat": "31.256497",
+          "lon": "121.413834",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2950,
+          "code": "frJrmqNOA_c",
+          "pid": 250,
+          "name": "枫桥路",
+          "lat": "31.248068",
+          "lon": "121.41754",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2951,
+          "code": "QwdDujs0TZA",
+          "pid": 250,
+          "name": "曹杨路",
+          "lat": "31.244107",
+          "lon": "121.4241",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2952,
+          "code": "F6hKgN4owkk",
+          "pid": 250,
+          "name": "隆德路",
+          "lat": "31.236727",
+          "lon": "121.430091",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2953,
+          "code": "cbGPkFsmIfY",
+          "pid": 250,
+          "name": "江苏路",
+          "lat": "31.226732",
+          "lon": "121.4371",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2954,
+          "code": "vj_5JmrMEQw",
+          "pid": 250,
+          "name": "交通大学",
+          "lat": "31.208906",
+          "lon": "121.441394",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2955,
+          "code": "c64Y3OAfXTE",
+          "pid": 250,
+          "name": "徐家汇",
+          "lat": "31.201202",
+          "lon": "121.442314",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2956,
+          "code": "DqUBqNFJYJw",
+          "pid": 250,
+          "name": "上海游泳馆",
+          "lat": "31.185365",
+          "lon": "121.448026",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2957,
+          "code": "5LfIys7XYVk",
+          "pid": 250,
+          "name": "龙华",
+          "lat": "31.179259",
+          "lon": "121.459229",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2958,
+          "code": "uyPqtHK9rro",
+          "pid": 250,
+          "name": "云锦路",
+          "lat": "31.17265",
+          "lon": "121.464914",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2959,
+          "code": "9vjvq_vxCIs",
+          "pid": 250,
+          "name": "龙耀路",
+          "lat": "31.166117",
+          "lon": "121.466",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2960,
+          "code": "hfRmPUj9gQ8",
+          "pid": 250,
+          "name": "东方体育中心",
+          "lat": "31.159351",
+          "lon": "121.487012",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2961,
+          "code": "67fwTNLklts",
+          "pid": 250,
+          "name": "三林",
+          "lat": "31.148688",
+          "lon": "121.517556",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2962,
+          "code": "heYMgyEhjyw",
+          "pid": 250,
+          "name": "三林东",
+          "lat": "31.152393",
+          "lon": "121.529691",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2963,
+          "code": "8QlAj4Ai4jA",
+          "pid": 250,
+          "name": "浦三路",
+          "lat": "31.157148",
+          "lon": "121.54554",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2964,
+          "code": "ody-h0DzLiY",
+          "pid": 250,
+          "name": "御桥",
+          "lat": "31.164663",
+          "lon": "121.577365",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2965,
+          "code": "itMXdUtKEIA",
+          "pid": 250,
+          "name": "罗山路",
+          "lat": "31.159221",
+          "lon": "121.599723",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3878,
+          "code": "N7CwVis-CcM",
+          "pid": 250,
+          "name": "秀沿路",
+          "lat": "31.143615",
+          "lon": "121.605344",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3879,
+          "code": "e5nf6X-l49I",
+          "pid": 250,
+          "name": "康新公路",
+          "lat": "31.136033",
+          "lon": "121.62383",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 4134,
+          "code": "wcV5KCW_KBQ",
+          "pid": 250,
+          "name": "迪士尼",
+          "lat": "31.147665",
+          "lon": "121.674752",
+          "type": 0,
+          "branchId": 0
+        }
+      ],
+      "branchList": [
+        {
+          "id": 251,
+          "code": "hX6M_qauqV0",
+          "pid": 0,
+          "name": "11号线支线",
+          "lat": "31.285497",
+          "lon": "121.369398",
+          "type": 0,
+          "parentId": 250,
+          "subList": [
+            {
+              "id": 2967,
+              "code": "0y1lAPCCpqk",
+              "pid": 251,
+              "name": "上海赛车场",
+              "lat": "31.337944",
+              "lon": "121.232625",
+              "type": 0,
+              "branchId": 0
+            },
+            {
+              "id": 2968,
+              "code": "R0aYNvIBOHY",
+              "pid": 251,
+              "name": "昌吉东路",
+              "lat": "31.29994",
+              "lon": "121.206771",
+              "type": 0,
+              "branchId": 0
+            },
+            {
+              "id": 2969,
+              "code": "dmZUQzbFst0",
+              "pid": 251,
+              "name": "上海汽车城",
+              "lat": "31.291581",
+              "lon": "121.18725",
+              "type": 0,
+              "branchId": 0
+            },
+            {
+              "id": 2970,
+              "code": "cVYFOX491Ps",
+              "pid": 251,
+              "name": "安亭",
+              "lat": "31.294335",
+              "lon": "121.168602",
+              "type": 0,
+              "branchId": 0
+            },
+            {
+              "id": 2971,
+              "code": "TJBE70QVCTE",
+              "pid": 251,
+              "name": "兆丰路",
+              "lat": "31.294652",
+              "lon": "121.156828",
+              "type": 0,
+              "branchId": 0
+            },
+            {
+              "id": 2972,
+              "code": "LG6VjVCfFmo",
+              "pid": 251,
+              "name": "光明路",
+              "lat": "31.302118",
+              "lon": "121.123995",
+              "type": 0,
+              "branchId": 0
+            },
+            {
+              "id": 2973,
+              "code": "l5KP14CXkQc",
+              "pid": 251,
+              "name": "花桥",
+              "lat": "31.304845",
+              "lon": "121.110706",
+              "type": 0,
+              "branchId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "code": "Va1pX21tddk",
+      "pid": 0,
+      "name": "12号线",
+      "lat": "31.286353",
+      "lon": "121.559424",
+      "type": 0,
+      "parentId": 0,
+      "subList": [
+        {
+          "id": 3827,
+          "code": "F5uLSiTLCec",
+          "pid": 252,
+          "name": "七莘路",
+          "lat": "31.137797",
+          "lon": "121.369818",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3828,
+          "code": "tlCKzCwLBRI",
+          "pid": 252,
+          "name": "虹莘路",
+          "lat": "31.142943",
+          "lon": "121.38597",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3829,
+          "code": "Eqe-dsy2B-Y",
+          "pid": 252,
+          "name": "顾戴路",
+          "lat": "31.14667",
+          "lon": "121.398948",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3830,
+          "code": "5dlv6zsXaV8",
+          "pid": 252,
+          "name": "东兰路",
+          "lat": "31.160908",
+          "lon": "121.398733",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3831,
+          "code": "3TQZtyUvReE",
+          "pid": 252,
+          "name": "虹梅路",
+          "lat": "31.168066",
+          "lon": "121.409079",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3832,
+          "code": "Urv9YJEdoSw",
+          "pid": 252,
+          "name": "虹漕路",
+          "lat": "31.170066",
+          "lon": "121.41697",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3833,
+          "code": "qG5sDZxTK7Y",
+          "pid": 252,
+          "name": "桂林公园",
+          "lat": "31.173038",
+          "lon": "121.425093",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3834,
+          "code": "2-oSqIDtT7E",
+          "pid": 252,
+          "name": "漕宝路",
+          "lat": "31.174785",
+          "lon": "121.441362",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3835,
+          "code": "_y326e-aZ4I",
+          "pid": 252,
+          "name": "龙漕路",
+          "lat": "31.176838",
+          "lon": "121.450401",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3836,
+          "code": "dlOFoYBPXaQ",
+          "pid": 252,
+          "name": "龙华",
+          "lat": "31.180111",
+          "lon": "121.459147",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3837,
+          "code": "Bdl-DX7v9YI",
+          "pid": 252,
+          "name": "龙华中路",
+          "lat": "31.191334",
+          "lon": "121.463832",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3838,
+          "code": "JYjvy-QCaPQ",
+          "pid": 252,
+          "name": "大木桥路",
+          "lat": "31.200403",
+          "lon": "121.470057",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3839,
+          "code": "X99yGnWUseM",
+          "pid": 252,
+          "name": "嘉善路",
+          "lat": "31.209063",
+          "lon": "121.467308",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3840,
+          "code": "gmqtqthbzaA",
+          "pid": 252,
+          "name": "陕西南路",
+          "lat": "31.223033",
+          "lon": "121.46554",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3841,
+          "code": "vJTWZBoIrOY",
+          "pid": 252,
+          "name": "南京西路",
+          "lat": "31.23413",
+          "lon": "121.465932",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3842,
+          "code": "v8S09dmTM5g",
+          "pid": 252,
+          "name": "汉中路",
+          "lat": "31.247375",
+          "lon": "121.464295",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3843,
+          "code": "X5QwvLqwZao",
+          "pid": 252,
+          "name": "曲阜路",
+          "lat": "31.248303",
+          "lon": "121.478011",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3844,
+          "code": "f2bWFlGkSSY",
+          "pid": 252,
+          "name": "天潼路",
+          "lat": "31.249662",
+          "lon": "121.488872",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3845,
+          "code": "Gj3oxIvB42s",
+          "pid": 252,
+          "name": "国际客运中心",
+          "lat": "31.255835",
+          "lon": "121.504856",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3846,
+          "code": "t5ac4QsZrqE",
+          "pid": 252,
+          "name": "提篮桥",
+          "lat": "31.259141",
+          "lon": "121.51328",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3847,
+          "code": "_8eHmOK5zSY",
+          "pid": 252,
+          "name": "大连路",
+          "lat": "31.263723",
+          "lon": "121.519576",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3848,
+          "code": "pgfgtCZHrDU",
+          "pid": 252,
+          "name": "江浦公园",
+          "lat": "31.270507",
+          "lon": "121.530286",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3849,
+          "code": "2ncQImbj0jg",
+          "pid": 252,
+          "name": "宁国路",
+          "lat": "31.274769",
+          "lon": "121.539069",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3850,
+          "code": "_cro09tcv1U",
+          "pid": 252,
+          "name": "隆昌路",
+          "lat": "31.281347",
+          "lon": "121.550831",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3851,
+          "code": "0CH28PwCMw4",
+          "pid": 252,
+          "name": "爱国路",
+          "lat": "31.286351",
+          "lon": "121.559427",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3852,
+          "code": "Jj04k-4WXBI",
+          "pid": 252,
+          "name": "复兴岛",
+          "lat": "31.287214",
+          "lon": "121.567831",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3853,
+          "code": "AlKCmtDpKBQ",
+          "pid": 252,
+          "name": "东陆路",
+          "lat": "31.288712",
+          "lon": "121.585248",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3854,
+          "code": "n_hN-ZUv14I",
+          "pid": 252,
+          "name": "巨峰路",
+          "lat": "31.286161",
+          "lon": "121.596082",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3855,
+          "code": "o4BptepN4e8",
+          "pid": 252,
+          "name": "杨高北路",
+          "lat": "31.285852",
+          "lon": "121.609423",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3856,
+          "code": "6Vw8J-rBoWM",
+          "pid": 252,
+          "name": "金京路",
+          "lat": "31.285413",
+          "lon": "121.622205",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3857,
+          "code": "VqElhoPqZRU",
+          "pid": 252,
+          "name": "申江路",
+          "lat": "31.285856",
+          "lon": "121.633793",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3858,
+          "code": "1kV5lR2Eu-Y",
+          "pid": 252,
+          "name": "金海路",
+          "lat": "31.268949",
+          "lon": "121.645202",
+          "type": 0,
+          "branchId": 0
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "code": "0YmCtjK5KR0",
+      "pid": 0,
+      "name": "13号线",
+      "lat": "31.227067",
+      "lon": "121.470422",
+      "type": 0,
+      "parentId": 0,
+      "subList": [
+        {
+          "id": 3859,
+          "code": "v8ZLSQqxxmA",
+          "pid": 253,
+          "name": "世博大道",
+          "lat": "31.18823",
+          "lon": "121.490937",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3860,
+          "code": "NRY2MKOHZys",
+          "pid": 253,
+          "name": "世博会博物馆",
+          "lat": "31.202606",
+          "lon": "121.488515",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3861,
+          "code": "YqoIVcviLCA",
+          "pid": 253,
+          "name": "马当路",
+          "lat": "31.21552",
+          "lon": "121.482923",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3862,
+          "code": "wOxo_bW00lg",
+          "pid": 253,
+          "name": "新天地",
+          "lat": "31.221504",
+          "lon": "121.481432",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3863,
+          "code": "Vp5G2ESEaFY",
+          "pid": 253,
+          "name": "淮海中路",
+          "lat": "31.226198",
+          "lon": "121.470677",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3864,
+          "code": "rcQtm9twZH0",
+          "pid": 253,
+          "name": "南京西路",
+          "lat": "31.234645",
+          "lon": "121.468949",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3865,
+          "code": "BydRzk4-qHY",
+          "pid": 253,
+          "name": "自然博物馆",
+          "lat": "31.241917",
+          "lon": "121.469279",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3866,
+          "code": "rTT-ne7OGTE",
+          "pid": 253,
+          "name": "汉中路",
+          "lat": "31.247375",
+          "lon": "121.464295",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3867,
+          "code": "AReyvW_zgPQ",
+          "pid": 253,
+          "name": "江宁路",
+          "lat": "31.250553",
+          "lon": "121.450568",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3868,
+          "code": "tWyjgBZqS8Q",
+          "pid": 253,
+          "name": "长寿路",
+          "lat": "31.247179",
+          "lon": "121.444786",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3869,
+          "code": "yK9YvjggVMU",
+          "pid": 253,
+          "name": "武宁路",
+          "lat": "31.240291",
+          "lon": "121.436675",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3870,
+          "code": "0SHX435txSA",
+          "pid": 253,
+          "name": "隆德路",
+          "lat": "31.236701",
+          "lon": "121.429743",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3871,
+          "code": "LDcWMbDHg8Q",
+          "pid": 253,
+          "name": "金沙江路",
+          "lat": "31.237227",
+          "lon": "121.418998",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3872,
+          "code": "Lr4_sXxh0g8",
+          "pid": 253,
+          "name": "大渡河路",
+          "lat": "31.237536",
+          "lon": "121.401707",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3873,
+          "code": "PQ-cZMsNcf4",
+          "pid": 253,
+          "name": "真北路",
+          "lat": "31.237862",
+          "lon": "121.388887",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3874,
+          "code": "2W9L3uKYaTM",
+          "pid": 253,
+          "name": "祁连山南路",
+          "lat": "31.243169",
+          "lon": "121.374143",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3875,
+          "code": "sBBEmZdlBK4",
+          "pid": 253,
+          "name": "丰庄",
+          "lat": "31.248367",
+          "lon": "121.362183",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3876,
+          "code": "CZpuqUMnkbo",
+          "pid": 253,
+          "name": "金沙江西路",
+          "lat": "31.2474",
+          "lon": "121.34169",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3877,
+          "code": "pIsTzre2w6k",
+          "pid": 253,
+          "name": "金运路",
+          "lat": "31.247368",
+          "lon": "121.326035",
+          "type": 0,
+          "branchId": 0
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "code": "sxoecYEgmM4",
+      "pid": 0,
+      "name": "16号线",
+      "lat": "31.056408",
+      "lon": "121.706186",
+      "type": 0,
+      "parentId": 0,
+      "subList": [
+        {
+          "id": 2997,
+          "code": "eSrBo_C1HXg",
+          "pid": 254,
+          "name": "滴水湖",
+          "lat": "30.913401",
+          "lon": "121.935987",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2998,
+          "code": "RWAqgh8uT6o",
+          "pid": 254,
+          "name": "临港大道",
+          "lat": "30.930354",
+          "lon": "121.916746",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 2999,
+          "code": "AViUIcu6Xpc",
+          "pid": 254,
+          "name": "书院",
+          "lat": "30.965002",
+          "lon": "121.85722",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3000,
+          "code": "_4DJQuep9Lo",
+          "pid": 254,
+          "name": "惠南东",
+          "lat": "31.032764",
+          "lon": "121.799711",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3001,
+          "code": "YVG3CIZ-a-0",
+          "pid": 254,
+          "name": "惠南",
+          "lat": "31.059659",
+          "lon": "121.768452",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3002,
+          "code": "pRVynaMiF5w",
+          "pid": 254,
+          "name": "野生动物园",
+          "lat": "31.056408",
+          "lon": "121.706186",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3003,
+          "code": "Q_nKNsQ-838",
+          "pid": 254,
+          "name": "新场",
+          "lat": "31.051489",
+          "lon": "121.655259",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3004,
+          "code": "m9IiETzXY_w",
+          "pid": 254,
+          "name": "航头东",
+          "lat": "31.060692",
+          "lon": "121.624049",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3005,
+          "code": "O5fv5TU-Zn0",
+          "pid": 254,
+          "name": "鹤沙航城",
+          "lat": "31.083402",
+          "lon": "121.617792",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3006,
+          "code": "V_6-61PPM7w",
+          "pid": 254,
+          "name": "周浦东",
+          "lat": "31.1158",
+          "lon": "121.613533",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3007,
+          "code": "U37KjEUUPZ0",
+          "pid": 254,
+          "name": "罗山路",
+          "lat": "31.159221",
+          "lon": "121.599723",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3008,
+          "code": "GJYXRJYwXdg",
+          "pid": 254,
+          "name": "华夏中路",
+          "lat": "31.18115",
+          "lon": "121.589873",
+          "type": 0,
+          "branchId": 0
+        },
+        {
+          "id": 3009,
+          "code": "XQ26XtD0agQ",
+          "pid": 254,
+          "name": "龙阳路",
+          "lat": "31.208343",
+          "lon": "121.56408",
+          "type": 0,
+          "branchId": 0
+        }
+      ]
+    }
+  ]
